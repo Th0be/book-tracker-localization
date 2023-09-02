@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  library
+
+  Created by Simone Montalto on 27/10/2019.
+  Copyright © 2019 Simone Montalto. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Book Tracker";
+"NSCameraUsageDescription" = "Pokud chcete skenovat čárové kódy knih, je potřeba aplikaci povolit přístup k fotoaparátu.";
+"NSPhotoLibraryUsageDescription" = "Pokud chcete vkládat náhledové obrázky ke knihám, je potřeba aplikaci povolit přístup k fotoaparátu.";
+
+"UIApplicationShortcutItemTitle.Search" = "Vyhledat";
+"UIApplicationShortcutItemTitle.Scan" = "Skenovat čárový kód";
+"UIApplicationShortcutItemTitle.ManualInsert" = "Vložit ručně";
