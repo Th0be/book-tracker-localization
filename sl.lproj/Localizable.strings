@@ -3,7 +3,6 @@
   library
 
   Created by Simone Montalto on 27/10/2019.
-  Translated by Maj Štrukelj on 06/11/23.
   Copyright © 2019 Simone Montalto. All rights reserved.
 */
 
@@ -768,3 +767,22 @@
 "Get notes for ${book}" = "Pridobi opombe za ${book}";
 
 "ExportQuotes" = "Izvozi citate";
+
+"SortByPages" = "Po številu strani";
+"SelectUserRating" = "Izberi uporabniško oceno";
+"SelectPageCount" = "Izberi strani";
+"Red" = "Rdeča";
+"Pink" = "Roza";
+"Orange" = "Oranžna";
+"Green" = "Zelena";
+"Mint" = "Mentol";
+"Teal" = "Tirkizna";
+"Blue" = "Modra";
+"Purple" = "Vijolična";
+"Indigo" = "Indigo";
+"Gray" = "Siva";
+"ColorQuestion" = "Kakšne barve je?";
+"DefaultBookType" = "Privzeti tip knjige";
+"InsertRemoteBookCategories" = "Vstavi kategorije iz spletnega iskanja";
+"InsertRemoteBookPublishers" = "Vstavi založnike iz spletnega iskanja";
+"InsertRemoteBookRatings" = "Vstavi ocene iz spletnega iskanja";

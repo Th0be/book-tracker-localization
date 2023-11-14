@@ -767,3 +767,22 @@
 "Get notes for ${book}" = "Получить заметки для ${book}";
 
 "ExportQuotes" = "Экспорт котировок";
+
+"SortByPages" = "По количеству страниц";
+"SelectUserRating" = "Выбрать рейтинг пользователя";
+"SelectPageCount" = "Выбрать количество страниц";
+"Red" = "Красный";
+"Pink" = "Розовый";
+"Orange" = "Оранжевый";
+"Green" = "Зеленый";
+"Mint" = "Мятный";
+"Teal" = "Черпаковый";
+"Blue" = "Синий";
+"Purple" = "Пурпурный";
+"Indigo" = "Индиго";
+"Gray" = "Серый";
+"ColorQuestion" = "Какой цвет?";
+"DefaultBookType" = "Тип книги по умолчанию";
+"InsertRemoteBookCategories" = "Вставить категории из онлайн-поиска";
+"InsertRemoteBookPublishers" = "Вставить издателей из онлайн-поиска";
+"InsertRemoteBookRatings" = "Вставить рейтинги из онлайн-поиска";

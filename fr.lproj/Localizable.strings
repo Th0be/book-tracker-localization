@@ -767,3 +767,22 @@
 "Get notes for ${book}" = "Obtenir des notes pour ${book}";
 
 "ExportQuotes" = "Exporter des citations";
+
+"SortByPages" = "Par nombre de pages";
+"SelectUserRating" = "Sélectionner la note de l'utilisateur";
+"SelectPageCount" = "Sélectionner le nombre de pages";
+"Red" = "Rouge";
+"Pink" = "Rose";
+"Orange" = "Orange";
+"Green" = "Vert";
+"Mint" = "Menthe";
+"Teal" = "Bleu-vert";
+"Blue" = "Bleu";
+"Purple" = "Violet";
+"Indigo" = "Indigo";
+"Gray" = "Gris";
+"ColorQuestion" = "Quelle est la couleur ?";
+"DefaultBookType" = "Type de livre par défaut";
+"InsertRemoteBookCategories" = "Insérer des catégories depuis la recherche en ligne";
+"InsertRemoteBookPublishers" = "Insérer des éditeurs depuis la recherche en ligne";
+"InsertRemoteBookRatings" = "Insérer des évaluations depuis la recherche en ligne";

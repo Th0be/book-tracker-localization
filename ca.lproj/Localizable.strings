@@ -767,3 +767,22 @@
 "Get notes for ${book}" = "Obtén notes per a ${book}";
 
 "ExportQuotes" = "Exportar cites";
+
+"SortByPages" = "Per nombre de pàgines";
+"SelectUserRating" = "Selecciona la valoració de l'usuari";
+"SelectPageCount" = "Selecciona les pàgines";
+"Red" = "Vermell";
+"Pink" = "Rosa";
+"Orange" = "Taronja";
+"Green" = "Verd";
+"Mint" = "Mentolat";
+"Teal" = "Verd blavós";
+"Blue" = "Blau";
+"Purple" = "Lila";
+"Indigo" = "Índigo";
+"Gray" = "Gris";
+"ColorQuestion" = "Quin és el color?";
+"DefaultBookType" = "Tipus de llibre per defecte";
+"InsertRemoteBookCategories" = "Insereix categories des de la cerca en línia";
+"InsertRemoteBookPublishers" = "Insereix editors des de la cerca en línia";
+"InsertRemoteBookRatings" = "Insereix valoracions des de la cerca en línia";

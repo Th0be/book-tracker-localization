@@ -767,3 +767,22 @@
 "Get notes for ${book}" = "Отримати нотатки для ${book}";
 
 "ExportQuotes" = "Експортні Цитати";
+
+"SortByPages" = "За кількістю сторінок";
+"SelectUserRating" = "Вибрати оцінку користувача";
+"SelectPageCount" = "Вибрати сторінки";
+"Red" = "Червоний";
+"Pink" = "Рожевий";
+"Orange" = "Помаранчевий";
+"Green" = "Зелений";
+"Mint" = "М'ятний";
+"Teal" = "Синьо-зелений";
+"Blue" = "Синій";
+"Purple" = "Пурпурний";
+"Indigo" = "Індиго";
+"Gray" = "Сірий";
+"ColorQuestion" = "Який це колір?";
+"DefaultBookType" = "Тип книги за замовчуванням";
+"InsertRemoteBookCategories" = "Вставити категорії з онлайн-пошуку";
+"InsertRemoteBookPublishers" = "Вставити видавців з онлайн-пошуку";
+"InsertRemoteBookRatings" = "Вставити рейтинги з онлайн-пошуку";

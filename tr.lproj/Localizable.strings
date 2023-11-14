@@ -767,3 +767,22 @@
 "Get notes for ${book}" = "${book} için notları al";
 
 "ExportQuotes" = "Alıntılar dışa aktar";
+
+"SortByPages" = "Sayfa sayısına göre sırala";
+"SelectUserRating" = "Kullanıcı derecesi seç";
+"SelectPageCount" = "Sayfaları seç";
+"Red" = "Kırmızı";
+"Pink" = "Pembe";
+"Orange" = "Turuncu";
+"Green" = "Yeşil";
+"Mint" = "Nane";
+"Teal" = "Teal";
+"Blue" = "Mavi";
+"Purple" = "Mor";
+"Indigo" = "Çivit mavi";
+"Gray" = "Gri";
+"ColorQuestion" = "Renk nedir?";
+"DefaultBookType" = "Varsayılan kitap türü";
+"InsertRemoteBookCategories" = "Çevrimiçi aramadan kategorileri ekle";
+"InsertRemoteBookPublishers" = "Çevrimiçi aramadan yayıncıları ekle";
+"InsertRemoteBookRatings" = "Çevrimiçi aramadan derecelendirmeleri ekle";

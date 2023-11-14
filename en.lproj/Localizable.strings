@@ -767,3 +767,23 @@
 "Get notes for ${book}" = "Get notes for ${book}";
 
 "ExportQuotes" = "Export quotes";
+
+"SortByPages" = "By page count";
+"SelectUserRating" = "Select user rating";
+"SelectPageCount" = "Select pages";
+"Red" = "Red";
+"Pink" = "Pink";
+"Orange" = "Orange";
+"Green" = "Green";
+"Mint" = "Mint";
+"Teal" = "Teal";
+"Blue" = "Blue";
+"Purple" = "Purple";
+"Indigo" = "Indigo";
+"Gray" = "Gray";
+"ColorQuestion" = "What's the color?";
+"DefaultBookType" = "Default book type";
+"InsertRemoteBookCategories" = "Insert categories from online search";
+"InsertRemoteBookPublishers" = "Insert publishers from online search";
+"InsertRemoteBookRatings" = "Insert ratings from online search";
+
