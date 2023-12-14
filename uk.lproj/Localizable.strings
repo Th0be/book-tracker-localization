@@ -136,6 +136,9 @@
 
 "ImportSuccessTitle" = "Вітаємо";
 "ImportSuccessMessage" = "Ви успішно імпортували ваші книжки в Book Tracker.\n\nУсього: %@\nУспішно: %@\nПомилок: %@";
+"ImportPreviewSuccessMessage" = "Попередній перегляд імпорту готовий.\n\nУсього: %@\nУспішно: %@\nПомилок: %@";
+"ShowBooks" = "Показати книги";
+"Preview" = "Попередній перегляд";
 
 "WaitLoading" = "Будь ласка, зачекайте...";
 
@@ -786,3 +789,18 @@
 "InsertRemoteBookCategories" = "Вставити категорії з онлайн-пошуку";
 "InsertRemoteBookPublishers" = "Вставити видавців з онлайн-пошуку";
 "InsertRemoteBookRatings" = "Вставити рейтинги з онлайн-пошуку";
+
+"OrderSeries" = "Сортувати серію";
+
+"LongestReadBook" = "Найдовша прочитана книга";
+"LongestListenedBook" = "Найдовша прослухана книга";
+"TopReadAuthor" = "Найбільше прочитаний автор";
+"TopListenedAuthor" = "Найбільше прослуханий автор";
+"TopReadCategory" = "Найдовша прочитана категорія";
+"TopListenedCategory" = "Найдовша прослухана категорія";
+"TopRatedBook" = "Найпопулярніша книга";
+
+"NameSurname" = "Ім'я прізвище";
+"SurnameName" = "Прізвище ім'я";
+"MergeItem" = "Об'єднати";
+"MergeItemsInfoMessage" = "Ви впевнені, що хочете об'єднати \n\n%@\n\n в \n\n%@? \n\nЦя дія не може бути відмінена.";

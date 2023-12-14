@@ -135,7 +135,10 @@
 "ImportErrorMessage" = "Ni možno uvoziti tvojih knjig. Izbrati moraš datoteko csv. Če nisi prepričan o formatu datoteke, poskusi izvoziti datoteko csv iz Book Trackerja in preveri imena stolpcev.";
 
 "ImportSuccessTitle" = "Čestitke";
-"ImportSuccessMessage" = "Uspešno si uvozil svoje knjige v Book Track.\n\Vse: %@\Uspešno: %@\Napake: %@";
+"ImportSuccessMessage" = "Uspešno si uvozil svoje knjige v Book Track.\n\nVse: %@\nUspešno: %@\nNapake: %@";
+"ImportPreviewSuccessMessage" = "Predogled uvoza je pripravljen.\n\nVse: %@\nUspešno: %@\nNapake: %@";
+"ShowBooks" = "Prikaži knjige";
+"Preview" = "Predogled";
 
 "WaitLoading" = "Prosim, počakaj...";
 
@@ -786,3 +789,18 @@
 "InsertRemoteBookCategories" = "Vstavi kategorije iz spletnega iskanja";
 "InsertRemoteBookPublishers" = "Vstavi založnike iz spletnega iskanja";
 "InsertRemoteBookRatings" = "Vstavi ocene iz spletnega iskanja";
+
+"OrderSeries" = "Razvrsti serije";
+
+"LongestReadBook" = "Najdaljša prebrana knjiga";
+"LongestListenedBook" = "Najdaljša poslušana knjiga";
+"TopReadAuthor" = "Najbolj brani avtor";
+"TopListenedAuthor" = "Najbolj poslušan avtor";
+"TopReadCategory" = "Najbolj brana kategorija";
+"TopListenedCategory" = "Najbolj poslušana kategorija";
+"TopRatedBook" = "Najbolje ocenjena knjiga";
+
+"NameSurname" = "Ime priimek";
+"SurnameName" = "Priimek ime";
+"MergeItem" = "Združi";
+"MergeItemsInfoMessage" = "Ste prepričani, da želite združiti \n\n%@\n\n v \n\n%@? \n\nDejanje ni mogoče razveljaviti.";

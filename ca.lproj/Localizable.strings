@@ -136,6 +136,9 @@
 
 "ImportSuccessTitle" = "Felicitats";
 "ImportSuccessMessage" = "Has importat correctament els teus llibres a Book Track.\n\nTotal: %@\nAmb èxit: %@\nErrors: %@";
+"ImportPreviewSuccessMessage" = "La previsualització de la importació està llesta.\n\nTotal: %@\nAmb èxit: %@\nErrors: %@";
+"ShowBooks" = "Mostra llibres";
+"Preview" = "Previsualització";
 
 "WaitLoading" = "Si us plau, espera...";
 
@@ -786,3 +789,18 @@
 "InsertRemoteBookCategories" = "Insereix categories des de la cerca en línia";
 "InsertRemoteBookPublishers" = "Insereix editors des de la cerca en línia";
 "InsertRemoteBookRatings" = "Insereix valoracions des de la cerca en línia";
+
+"OrderSeries" = "Ordena sèrie";
+
+"LongestReadBook" = "Llibre llegit més llarg";
+"LongestListenedBook" = "Llibre escoltat més llarg";
+"TopReadAuthor" = "Autor més llegit";
+"TopListenedAuthor" = "Autor més escoltat";
+"TopReadCategory" = "Categoria més llegida";
+"TopListenedCategory" = "Categoria més escoltada";
+"TopRatedBook" = "Llibre més ben valorat";
+
+"NameSurname" = "Nom cognom";
+"SurnameName" = "Cognom nom";
+"MergeItem" = "Fusionar";
+"MergeItemsInfoMessage" = "Segur que vols fusionar \n\n%@\n\n en \n\n%@? \n\nAquesta acció no es pot desfer.";

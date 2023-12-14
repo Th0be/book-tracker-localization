@@ -136,6 +136,9 @@
 
 "ImportSuccessTitle" = "Parabéns";
 "ImportSuccessMessage" = "Você importou seus livros para o Book Track com sucesso.\n\nTotal: %@\nSucessos: %@\nFalhas: %@";
+"ImportPreviewSuccessMessage" = "A prévia de importação está pronta.\n\nTotal: %@\nSucessos: %@\nFalhas: %@";
+"ShowBooks" = "Mostrar livros";
+"Preview" = "Visualização";
 
 "WaitLoading" = "Por favor, aguarde...";
 
@@ -786,3 +789,18 @@
 "InsertRemoteBookCategories" = "Inserir categorias da pesquisa online";
 "InsertRemoteBookPublishers" = "Inserir editores da pesquisa online";
 "InsertRemoteBookRatings" = "Inserir classificações da pesquisa online";
+
+"OrderSeries" = "Ordenar série";
+
+"LongestReadBook" = "Livro mais longo lido";
+"LongestListenedBook" = "Livro mais longo ouvido";
+"TopReadAuthor" = "Autor mais lido";
+"TopListenedAuthor" = "Autor mais ouvido";
+"TopReadCategory" = "Categoria mais lida";
+"TopListenedCategory" = "Categoria mais ouvida";
+"TopRatedBook" = "Livro melhor avaliado";
+
+"NameSurname" = "Nome sobrenome";
+"SurnameName" = "Sobrenome nome";
+"MergeItem" = "Mesclar";
+"MergeItemsInfoMessage" = "Tem certeza de que deseja mesclar \n\n%@\n\n em \n\n%@? \n\nA ação não é reversível.";

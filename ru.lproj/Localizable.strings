@@ -136,6 +136,9 @@
 
 "ImportSuccessTitle" = "Поздравляем";
 "ImportSuccessMessage" = "Вы успешно импортировали свои книги в Book Track.\n\nВсего: %@\nУспешно: %@\nОшибок: %@";
+"ImportPreviewSuccessMessage" = "Предварительный просмотр импорта готов.\n\nВсего: %@\nУспешно: %@\nОшибок: %@";
+"ShowBooks" = "Показать книги";
+"Preview" = "Предпросмотр";
 
 "WaitLoading" = "Обработка...";
 
@@ -786,3 +789,18 @@
 "InsertRemoteBookCategories" = "Вставить категории из онлайн-поиска";
 "InsertRemoteBookPublishers" = "Вставить издателей из онлайн-поиска";
 "InsertRemoteBookRatings" = "Вставить рейтинги из онлайн-поиска";
+
+"OrderSeries" = "Сортировочная серия";
+
+"LongestReadBook" = "Самая длинная прочитанная книга";
+"LongestListenedBook" = "Самая длинная прослушанная книга";
+"TopReadAuthor" = "Самый читаемый автор";
+"TopListenedAuthor" = "Самый прослушиваемый автор";
+"TopReadCategory" = "Самая читаемая категория";
+"TopListenedCategory" = "Самая прослушиваемая категория";
+"TopRatedBook" = "Самая популярная книга";
+
+"NameSurname" = "Имя фамилия";
+"SurnameName" = "Фамилия имя";
+"MergeItem" = "Объединить";
+"MergeItemsInfoMessage" = "Вы уверены, что хотите объединить \n\n%@\n\n в \n\n%@? \n\nДействие необратимо.";

@@ -135,7 +135,10 @@
 "ImportErrorMessage" = "It is not possible to import your books. You have to select a csv file. If you are not sure of the format of the file, try to export a csv file from Book Tracker and check the columns name.";
 
 "ImportSuccessTitle" = "Congratulations";
-"ImportSuccessMessage" = "You have successfully imported your books in Book Track.\n\nTotal: %@\nSuccesses: %@\nErrors: %@";
+"ImportSuccessMessage" = "You have successfully imported your books in Book Tracker.\n\nTotal: %@\nSuccesses: %@\nErrors: %@";
+"ImportPreviewSuccessMessage" = "The import preview is ready.\n\nTotal: %@\nSuccesses: %@\nErrors: %@";
+"ShowBooks" = "Show books";
+"Preview" = "Preview";
 
 "WaitLoading" = "Please wait...";
 
@@ -178,7 +181,7 @@
 "SelectFile" = "Select file";
 "File" = "File";
 "LeaveATip" = "Leave a tip";
-"LeaveATipDescription" = "Hi, I'm Simone, the developer of Book Track. I hope you like the app and that it is helping you keep your library organized.\n\nIf you want to further support my work and help me manage the running costs, you can do it with a donation. Thanks a lot ❤️";
+"LeaveATipDescription" = "Hi, I'm Simone, the developer of Book Tracker. I hope you like the app and that it is helping you keep your library organized.\n\nIf you want to further support my work and help me manage the running costs, you can do it with a donation. Thanks a lot ❤️";
 "ThanksgivingTitle" = "Purchase completed";
 "ThanksgivingMessage" = "Thanks for your support ❤️";
 "ErrorOccurred" = "A problem has occurred. Try later";
@@ -288,7 +291,7 @@
 "PremiumSubtitle" = "Unlock all features";
 "Duplicate" = "Duplicate";
 
-"ImportSelectFileTitle" = "Book Tracker supports the import of libraries in CSV format. Select a CSV file to import your library from another app or service into Book Track. If you want to import the library from Goodreads, you can export the CSV file from the Goodreads website.";
+"ImportSelectFileTitle" = "Book Tracker supports the import of libraries in CSV format. Select a CSV file to import your library from another app or service into Book Tracker. If you want to import the library from Goodreads, you can export the CSV file from the Goodreads website.";
 "ImportAssociateFieldsTitle" = "Book Tracker automatically tries to associate the column names of the CSV file with the fields in the app. Should any field remain empty, select it to be able to associate it manually. If some fields are not available in the CSV file they can remain empty. In order to proceed with the import, at least the title field must be selected.";
 
 "Location" = "Location";
@@ -736,7 +739,7 @@
 "AddRating" = "Add Rating";
 "EditRating" = "Edit Rating";
 "RandomQuote" = "Random quote";
-"CurrentReading" = "Current reading";
+"CurrentReading" = "Currently reading";
 
 "You have listened %lld minutes today" = "You have listened %lld minutes today";
 "%lld of %lld pages" = "%lld of %lld pages";
@@ -787,3 +790,17 @@
 "InsertRemoteBookPublishers" = "Insert publishers from online search";
 "InsertRemoteBookRatings" = "Insert ratings from online search";
 
+"OrderSeries" = "Order series";
+
+"LongestReadBook" = "Longest Read Book";
+"LongestListenedBook" = "Longest Listened Book";
+"TopReadAuthor" = "Most Read Author";
+"TopListenedAuthor" = "Most Listened Author";
+"TopReadCategory" = "Most Read Category";
+"TopListenedCategory" = "Most Listened Category";
+"TopRatedBook" = "Top Rated Book";
+
+"NameSurname" = "Name surname";
+"SurnameName" = "Surname name";
+"MergeItem" = "Merge";
+"MergeItemsInfoMessage" = "Are you sure to merge \n\n%@\n\n into \n\n%@? \n\nThe action is not reversible.";

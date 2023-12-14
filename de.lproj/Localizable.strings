@@ -136,6 +136,9 @@
 
 "ImportSuccessTitle" = "Glückwunsch";
 "ImportSuccessMessage" = "Du hast erfolgreich deine Bücher in Book Track importiert.\n\nGesamt: %@\nErfolge: %@\nFehler: %@";
+"ImportPreviewSuccessMessage" = "Die Importvorschau ist bereit.\n\nGesamt: %@\nErfolge: %@\nFehler: %@";
+"ShowBooks" = "Bücher anzeigen";
+"Preview" = "Vorschau";
 
 "WaitLoading" = "Bitte warten...";
 
@@ -766,7 +769,7 @@
 "GetBookNotesDescription" = "Holen Sie sich Notizen aus einem bestimmten Buch";
 "Get notes for ${book}" = "Holen Sie sich Notizen für ${book}";
 
-"ExportQuotes" = "EZitate exportieren";
+"ExportQuotes" = "Zitate exportieren";
 
 "SortByPages" = "Nach Seitenanzahl sortieren";
 "SelectUserRating" = "Benutzerbewertung auswählen";
@@ -786,3 +789,18 @@
 "InsertRemoteBookCategories" = "Kategorien aus Online-Suche einfügen";
 "InsertRemoteBookPublishers" = "Verlage aus Online-Suche einfügen";
 "InsertRemoteBookRatings" = "Bewertungen aus Online-Suche einfügen";
+
+"OrderSeries" = "Serien sortieren";
+
+"LongestReadBook" = "Längstes gelesenes Buch";
+"LongestListenedBook" = "Längstes gehörtes Buch";
+"TopReadAuthor" = "Am meisten gelesener Autor";
+"TopListenedAuthor" = "Am meisten gehörter Autor";
+"TopReadCategory" = "Am meisten gelesene Kategorie";
+"TopListenedCategory" = "Am meisten gehörte Kategorie";
+"TopRatedBook" = "Am besten bewertetes Buch";
+
+"NameSurname" = "Vorname Nachname";
+"SurnameName" = "Nachname Vorname";
+"MergeItem" = "Zusammenführen";
+"MergeItemsInfoMessage" = "Bist du sicher, dass du \n\n%@\n\n in \n\n%@ zusammenführen möchtest? \n\nDie Aktion kann nicht rückgängig gemacht werden.";

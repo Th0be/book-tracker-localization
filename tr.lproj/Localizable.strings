@@ -136,6 +136,9 @@
 
 "ImportSuccessTitle" = "Tebrikler";
 "ImportSuccessMessage" = "Kitaplarınızı Book Track'a başarıyla eklediniz.\n\nToplam: %@\nBaşarılı: %@\nHatalar: %@";
+"ImportPreviewSuccessMessage" = "İçe Aktarma Önizlemesi hazır.\n\nToplam: %@\nBaşarılı: %@\nHatalar: %@";
+"ShowBooks" = "Kitapları Göster";
+"Preview" = "Önizleme";
 
 "WaitLoading" = "Lütfen bekleyin...";
 
@@ -786,3 +789,18 @@
 "InsertRemoteBookCategories" = "Çevrimiçi aramadan kategorileri ekle";
 "InsertRemoteBookPublishers" = "Çevrimiçi aramadan yayıncıları ekle";
 "InsertRemoteBookRatings" = "Çevrimiçi aramadan derecelendirmeleri ekle";
+
+"OrderSeries" = "Serileri sırala";
+
+"LongestReadBook" = "En Uzun Okunan Kitap";
+"LongestListenedBook" = "En Uzun Dinlenen Kitap";
+"TopReadAuthor" = "En Çok Okunan Yazar";
+"TopListenedAuthor" = "En Çok Dinlenen Yazar";
+"TopReadCategory" = "En Çok Okunan Kategori";
+"TopListenedCategory" = "En Çok Dinlenen Kategori";
+"TopRatedBook" = "En İyi Dereceli Kitap";
+
+"NameSurname" = "Ad soyad";
+"SurnameName" = "Soyad ad";
+"MergeItem" = "Birleştir";
+"MergeItemsInfoMessage" = "Emin misiniz ki \n\n%@\n\n'yi \n\n%@ ile birleştirmek istiyorsunuz? \n\nBu eylem geri alınamaz.";
