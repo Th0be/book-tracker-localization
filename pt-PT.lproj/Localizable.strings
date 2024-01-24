@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Importe seus livros de outros aplicativos e serviços para que você não precise começar a criar sua biblioteca novamente";
 "Onboarding6Title" = "Economia de cotação";
 "Onboarding6Message" = "Salve suas citações favoritas em um só lugar para poder lê-las novamente mais tarde";
-"Onboarding7Title" = "Desafios de leitura";
+"Onboarding7Title" = "Widgets";
 "Onboarding7Message" = "Veja estatísticas de biblioteca e leitura e coloque-as diretamente na tela inicial com widgets lindos";
 "Continue" = "Continuar";
 "TryForFree" = "Experimentar gratuitamente";
@@ -804,3 +804,22 @@
 "SurnameName" = "Sobrenome nome";
 "MergeItem" = "Mesclar";
 "MergeItemsInfoMessage" = "Tem certeza de que deseja mesclar \n\n%@\n\n em \n\n%@? \n\nA ação não é reversível.";
+
+"Backup&Restore" = "Backup e Restauração";
+"Backup" = "Backup";
+"Restore" = "Restaurar";
+"RestoreBackupTitle" = "Restaurar a partir do backup?";
+"RestoreBackupMessage" = "Restaurar a partir de um backup substituirá todos os dados atuais pelos dados do backup. Tem certeza de que deseja continuar?";
+"RestoreBackupInfoMessage" = "Selecione um backup específico para sobrescrever os dados neste dispositivo com os dados de um backup. Note que pode levar algum tempo para que os backups se sincronizem com o iCloud.";
+"BackupFrequencyInfoMessage" = "Selecione a frequência com que o aplicativo faz automaticamente o backup dos seus dados. Os backups serão feitos em segundo plano.";
+"Daily" = "Diariamente";
+"Weekly" = "Semanalmente";
+"Monthly" = "Mensalmente";
+"Never" = "Nunca";
+"BackupFrequency" = "Frequência de backup";
+"BackupLimitInfoMessage" = "Selecione o número máximo de backups a serem armazenados localmente no seu dispositivo.";
+"BackupLimit" = "Limite de backup";
+
+"Privacy" = "Privacidade";
+"PaywallTitle3" = "Privacidade em primeiro lugar";
+"PaywallDescription3" = "Gostamos de manter as coisas simples:\n\nDe forma intencional, não utilizamos análises de terceiros ou anúncios no Book Tracker, e não coletamos nenhum tipo de dado do usuário. Estamos comprometidos em garantir que isso permaneça assim.\n\nSuas configurações e dados são armazenados com segurança em seus próprios dispositivos, e, quando apropriado, você pode optar por fazer backup ou sincronizar através do iCloud.";

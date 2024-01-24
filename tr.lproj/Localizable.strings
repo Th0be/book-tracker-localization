@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Kitaplığınızı baştan oluşturmaya başlamak zorunda kalmamak için kitaplarınızı diğer uygulamalardan ve hizmetlerden içe aktarın";
 "Onboarding6Title" = "Fiyat teklifi kaydetme";
 "Onboarding6Message" = "Daha sonra tekrar okuyabilmek için favori alıntılarınızı tek bir yere kaydedin";
-"Onboarding7Title" = "Okuma zorlukları";
+"Onboarding7Title" = "Widget'lar";
 "Onboarding7Message" = "Kitaplığı ve okuma istatistiklerini görün ve muhteşem widget'larla bunları doğrudan Ana ekranınıza yerleştirin";
 "Continue" = "Devam";
 "TryForFree" = "Ücretsiz deneyin";
@@ -804,3 +804,22 @@
 "SurnameName" = "Soyad ad";
 "MergeItem" = "Birleştir";
 "MergeItemsInfoMessage" = "Emin misiniz ki \n\n%@\n\n'yi \n\n%@ ile birleştirmek istiyorsunuz? \n\nBu eylem geri alınamaz.";
+
+"Backup&Restore" = "Yedekleme & Geri Yükleme";
+"Backup" = "Yedekleme";
+"Restore" = "Geri Yükleme";
+"RestoreBackupTitle" = "Yedeğinden geri yükle?";
+"RestoreBackupMessage" = "Yedeğinden geri yüklemek, tüm mevcut verileri yedeğin verileri ile değiştirecek. Devam etmek istediğinizden emin misiniz?";
+"RestoreBackupInfoMessage" = "Bu cihazdaki verileri bir yedekleme verileri ile üzerine yazmak için belirli bir yedekleme seçin. Unutmayın ki yedeklemelerin iCloud ile senkronize olması biraz zaman alabilir.";
+"BackupFrequencyInfoMessage" = "Uygulamanın verilerinizi otomatik olarak ne sıklıkta yedeklediğini seçin. Yedeklemeler arka planda yapılacaktır.";
+"Daily" = "Günlük";
+"Weekly" = "Haftalık";
+"Monthly" = "Aylık";
+"Never" = "Asla";
+"BackupFrequency" = "Yedekleme sıklığı";
+"BackupLimitInfoMessage" = "Cihazınızda yerel olarak depolanacak maksimum yedekleme sayısını seçin.";
+"BackupLimit" = "Yedekleme sınırı";
+
+"Privacy" = "Gizlilik";
+"PaywallTitle3" = "Öncelikli Gizlilik";
+"PaywallDescription3" = "Basit tutmayı severiz:\n\nBilinçli olarak Book Tracker'da üçüncü taraf analitik veya reklam kullanmıyoruz ve hiçbir türde kullanıcı verisi toplamıyoruz. Bu durumun böyle kalmasını sağlamak için kararlıyız.\n\nAyarlarınız ve verileriniz kendi cihazlarınızda güvenli bir şekilde saklanır ve uygunsa iCloud üzerinden yedek almayı veya senkronize etmeyi seçebilirsiniz.";

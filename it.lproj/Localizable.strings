@@ -106,13 +106,13 @@
 "Onboarding3Title" = "Aggiungi nuovi libri";
 "Onboarding3Message" = "Aggiungi nuovi libri cercando online, scansionando il codice a barre o inserendoli manualmente";
 "Onboarding4Title" = "Libreria salvata sul cloud";
-"Onboarding4Message" = "La tua libreria e la tua lista dei desideri vengono salvate automaticamente sul tuo account iCloud se sia iCloud che iCloud Drive sono abilitati";
+"Onboarding4Message" = "La tua libreria è salvata automaticamente sul tuo account iCloud se sia iCloud che iCloud Drive sono abilitati";
 "Onboarding5Title" = "Importa la libreria";
-"Onboarding5Message" = "Importa i tuoi libri da altre app e servizi in modo da non dover ricominciare a costruire la tua libreria";
+"Onboarding5Message" = "Importa i tuoi libri da altre app in modo da non dover ricominciare a costruire la tua libreria";
 "Onboarding6Title" = "Salvataggio citazioni";
 "Onboarding6Message" = "Salva le tue citazioni preferite in un unico posto in modo da poterle leggere di nuovo in seguito";
-"Onboarding7Title" = "Sfide di lettura";
-"Onboarding7Message" = "Visualizza la libreria e le statistiche di lettura e inseriscile direttamente nella schermata Home con splendidi widget";
+"Onboarding7Title" = "Widget";
+"Onboarding7Message" = "La tua libreria e le statistiche di lettura direttamente nella schermata Home con splendidi widget";
 "Continue" = "Continua";
 "TryForFree" = "Prova gratis";
 
@@ -804,3 +804,22 @@
 "SurnameName" = "Cognome nome";
 "MergeItem" = "Unisci";
 "MergeItemsInfoMessage" = "Sei sicuro di voler unire \n\n%@\n\n in \n\n%@? \n\nL'azione non è reversibile.";
+
+"Backup&Restore" = "Backup e ripristino";
+"Backup" = "Backup";
+"Restore" = "Ripristina";
+"RestoreBackupTitle" = "Ripristinare da backup?";
+"RestoreBackupMessage" = "Il ripristino da un backup sostituirà tutti i dati attuali con i dati dal backup. Sei sicuro di voler continuare?";
+"RestoreBackupInfoMessage" = "Seleziona un backup specifico per sovrascrivere i dati su questo dispositivo con i dati da un backup. Nota che può richiedere del tempo per sincronizzare i backup con iCloud.";
+"BackupFrequencyInfoMessage" = "Seleziona la frequenza con cui l'app effettua automaticamente il backup dei tuoi dati. I backup verranno effettuati in background.";
+"Daily" = "Giornaliera";
+"Weekly" = "Settimanale";
+"Monthly" = "Mensile";
+"Never" = "Mai";
+"BackupFrequency" = "Frequenza del backup";
+"BackupLimitInfoMessage" = "Seleziona il numero massimo di backup da conservare localmente sul tuo dispositivo.";
+"BackupLimit" = "Limite backup";
+
+"Privacy" = "Privacy";
+"PaywallTitle3" = "Privacy al primo posto";
+"PaywallDescription3" = "Ci piace mantenere le cose semplici:\n\nNon utilizziamo analitici o annunci pubblicitari in Book Track e non raccogliamo dati degli utenti di alcun tipo. Ci impegniamo a fare in modo che questo rimanga tale.\n\nLe tue impostazioni e dati sono memorizzati in modo sicuro sui tuoi dispositivi e, se opportuno, puoi scegliere di eseguire il backup o la sincronizzazione tramite iCloud.";

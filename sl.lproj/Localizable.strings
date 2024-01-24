@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Uvozi svoje knjige iz drugih aplikacij in storitev, da ti knjižnice ne bo treba začeti graditi znova";
 "Onboarding6Title" = "Shranjevanje citatov";
 "Onboarding6Message" = "Shrani svoje najljubše citate na enem mestu, da jih boš lahko pozneje znova prebral";
-"Onboarding7Title" = "Bralni izzivi";
+"Onboarding7Title" = "Pripomočki";
 "Onboarding7Message" = "Oglej si statistične podatke o knjižnici in branju ter jih s čudovitimi pripomočki postavi na domači zaslon";
 "Continue" = "Nadaljuj";
 "TryForFree" = "Preizkusi brezplačno";
@@ -804,3 +804,22 @@
 "SurnameName" = "Priimek ime";
 "MergeItem" = "Združi";
 "MergeItemsInfoMessage" = "Ste prepričani, da želite združiti \n\n%@\n\n v \n\n%@? \n\nDejanje ni mogoče razveljaviti.";
+
+"Backup&Restore" = "Varnostno kopiranje in obnovitev";
+"Backup" = "Varnostna kopija";
+"Restore" = "Obnovi";
+"RestoreBackupTitle" = "Obnovi iz varnostne kopije?";
+"RestoreBackupMessage" = "Obnovitev iz varnostne kopije bo zamenjala vse trenutne podatke s podatki iz varnostne kopije. Ste prepričani, da želite nadaljevati?";
+"RestoreBackupInfoMessage" = "Izberite določeno varnostno kopijo za prepis podatkov na tem napravi z podatki iz varnostne kopije. Opomba: sinhronizacija varnostnih kopij z iCloud lahko traja nekaj časa.";
+"BackupFrequencyInfoMessage" = "Izberite frekvenco, s katero aplikacija samodejno ustvarja varnostne kopije vaših podatkov. Varnostne kopije se bodo ustvarjale v ozadju.";
+"Daily" = "Dnevno";
+"Weekly" = "Tedensko";
+"Monthly" = "Mesečno";
+"Never" = "Nikoli";
+"BackupFrequency" = "Frekvenca varnostnega kopiranja";
+"BackupLimitInfoMessage" = "Izberite največje število varnostnih kopij, ki jih želite shraniti lokalno na svoji napravi.";
+"BackupLimit" = "Omejitev varnostne kopije";
+
+"Privacy" = "Zasebnost";
+"PaywallTitle3" = "Najprej zasebnost";
+"PaywallDescription3" = "Radi imamo, da so stvari preproste:\n\nNamenoma ne uporabljamo analitike ali oglasov tretjih oseb v Book Tracker in ne zbiramo nobenih podatkov uporabnikov katere koli vrste. Zavezani smo, da to ostane tako.\n\nVaše nastavitve in podatki se varno shranjujejo na vaših lastnih napravah in, kjer je primerno, lahko izberete varnostno kopiranje ali sinhronizacijo prek storitve iCloud.";

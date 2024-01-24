@@ -106,13 +106,13 @@
 "Onboarding3Title" = "Add new books";
 "Onboarding3Message" = "Add new books searching online, scanning the bar code or manually inserting it";
 "Onboarding4Title" = "Library saved in the cloud";
-"Onboarding4Message" = "Your library and wish list is automatically saved on your iCloud account if both iCloud and iCloud Drive are enabled";
+"Onboarding4Message" = "Your library is automatically saved on your iCloud account if both iCloud and iCloud Drive are enabled";
 "Onboarding5Title" = "Import the library";
-"Onboarding5Message" = "Import your books from other apps and services so you don't have to start building your library all over again";
+"Onboarding5Message" = "Import your books from other apps so you don't have to start building your library all over again";
 "Onboarding6Title" = "Quote saving";
 "Onboarding6Message" = "Save your favorite quotes in one place so you can read them again later";
-"Onboarding7Title" = "Reading challenges";
-"Onboarding7Message" = "See library and reading statistics and put them right on your Home screen with gorgeous widgets";
+"Onboarding7Title" = "Widgets";
+"Onboarding7Message" = "Your library and reading statistics right on your Home screen with gorgeous widgets";
 "Continue" = "Continue";
 "TryForFree" = "Try for free";
 
@@ -804,3 +804,22 @@
 "SurnameName" = "Surname name";
 "MergeItem" = "Merge";
 "MergeItemsInfoMessage" = "Are you sure to merge \n\n%@\n\n into \n\n%@? \n\nThe action is not reversible.";
+
+"Backup&Restore" = "Backup & restore";
+"Backup" = "Backup";
+"Restore" = "Restore";
+"RestoreBackupTitle" = "Restore from backup?";
+"RestoreBackupMessage" = "Restoring from a backup will replace all current data with the data from the backup Are you sure you wish to continue?";
+"RestoreBackupInfoMessage" = "Select a specific backup to overwrite the data on this device with the data from a backup. Note that it can take some time for backups to sync with iCloud.";
+"BackupFrequencyInfoMessage" = "Select the frequency that the app automatically backs up your data. Backups will made in the background.";
+"Daily" = "Daily";
+"Weekly" = "Weekly";
+"Monthly" = "Monthly";
+"Never" = "Never";
+"BackupFrequency" = "Backup frequency";
+"BackupLimitInfoMessage" = "Select the maximum number of backups to be stored locally on your device.";
+"BackupLimit" = "Backup limit";
+
+"Privacy" = "Privacy";
+"PaywallTitle3" = "Privacy first";
+"PaywallDescription3" = "We like to keep things simple:\n\nWe intentionally do not use third-party analytics or ads in Book Tracker, and collect no user data of any sort. We are committed to making sure that this remains the case.\n\nYour settings & data are stored securely on your own devices, and, where appropriate, you may choose to back-up or sync through iCloud.";

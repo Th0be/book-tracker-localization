@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Importe sus libros desde otras aplicaciones y servicios para que no tenga que volver a crear su biblioteca desde el principio";
 "Onboarding6Title" = "Cotización guardada";
 "Onboarding6Message" = "Guarde sus citas favoritas en un solo lugar para poder leerlas más tarde";
-"Onboarding7Title" = "Desafíos de lectura";
+"Onboarding7Title" = "Widgets";
 "Onboarding7Message" = "Consulte la biblioteca y las estadísticas de lectura y colóquelas en su pantalla de inicio con magníficos widgets";
 "Continue" = "Continuar";
 "TryForFree" = "Prueba gratis";
@@ -804,3 +804,22 @@
 "SurnameName" = "Apellido nombre";
 "MergeItem" = "Combinar";
 "MergeItemsInfoMessage" = "¿Estás seguro de combinar \n\n%@\n\n en \n\n%@? \n\nLa acción no es reversible.";
+
+"Backup&Restore" = "Copia de seguridad y restauración";
+"Backup" = "Copia de seguridad";
+"Restore" = "Restaurar";
+"RestoreBackupTitle" = "¿Restaurar desde la copia de seguridad?";
+"RestoreBackupMessage" = "Restaurar desde una copia de seguridad reemplazará todos los datos actuales con los datos de la copia de seguridad. ¿Estás seguro de que deseas continuar?";
+"RestoreBackupInfoMessage" = "Selecciona una copia de seguridad específica para sobrescribir los datos en este dispositivo con los datos de la copia de seguridad. Ten en cuenta que puede llevar algún tiempo sincronizar las copias de seguridad con iCloud.";
+"BackupFrequencyInfoMessage" = "Selecciona la frecuencia con la que la aplicación realiza automáticamente copias de seguridad de tus datos. Las copias de seguridad se realizarán en segundo plano.";
+"Daily" = "Diariamente";
+"Weekly" = "Semanalmente";
+"Monthly" = "Mensualmente";
+"Never" = "Nunca";
+"BackupFrequency" = "Frecuencia de copia de seguridad";
+"BackupLimitInfoMessage" = "Selecciona el número máximo de copias de seguridad que se almacenarán localmente en tu dispositivo.";
+"BackupLimit" = "Límite de copias de seguridad";
+
+"Privacy" = "Privacidad";
+"PaywallTitle3" = "Privacidad en primer lugar";
+"PaywallDescription3" = "Nos gusta mantener las cosas simples:\n\nDe manera intencional, no utilizamos análisis de terceros o anuncios en Book Tracker y no recopilamos ningún tipo de datos de usuario. Estamos comprometidos a asegurarnos de que esto siga siendo así.\n\nSus configuraciones y datos se almacenan de forma segura en sus propios dispositivos y, cuando sea apropiado, puede optar por hacer una copia de seguridad o sincronizar a través de iCloud.";

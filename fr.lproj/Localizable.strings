@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Importez vos livres à partir d'autres applications et services pour ne pas avoir à recréer votre bibliothèque";
 "Onboarding6Title" = "Enregistrez des citations";
 "Onboarding6Message" = "Enregistrez vos citations préférées au même endroit pour pouvoir les relire plus tard";
-"Onboarding7Title" = "Défis de lecture";
+"Onboarding7Title" = "Widgets";
 "Onboarding7Message" = "Consultez vos statistiques de lecture et placez-les directement sur votre écran d'accueil avec de superbes widgets";
 "Continue" = "Continuer";
 "TryForFree" = "Essayer gratuitement";
@@ -804,3 +804,22 @@
 "SurnameName" = "Prénom nom";
 "MergeItem" = "Fusionner";
 "MergeItemsInfoMessage" = "Êtes-vous sûr de vouloir fusionner \n\n%@\n\n dans \n\n%@ ? \n\nL'action est irréversible.";
+
+"Backup&Restore" = "Sauvegarde et restauration";
+"Backup" = "Sauvegarde";
+"Restore" = "Restaurer";
+"RestoreBackupTitle" = "Restaurer à partir d'une sauvegarde ?";
+"RestoreBackupMessage" = "La restauration à partir d'une sauvegarde remplacera toutes les données actuelles par les données de la sauvegarde. Êtes-vous sûr de vouloir continuer ?";
+"RestoreBackupInfoMessage" = "Sélectionnez une sauvegarde spécifique pour écraser les données sur cet appareil avec les données d'une sauvegarde. Notez que la synchronisation des sauvegardes avec iCloud peut prendre un certain temps.";
+"BackupFrequencyInfoMessage" = "Sélectionnez la fréquence à laquelle l'application effectue automatiquement la sauvegarde de vos données. Les sauvegardes seront effectuées en arrière-plan.";
+"Daily" = "Quotidien";
+"Weekly" = "Hebdomadaire";
+"Monthly" = "Mensuel";
+"Never" = "Jamais";
+"BackupFrequency" = "Fréquence de sauvegarde";
+"BackupLimitInfoMessage" = "Sélectionnez le nombre maximal de sauvegardes à stocker localement sur votre appareil.";
+"BackupLimit" = "Limite de sauvegarde";
+
+"Privacy" = "Confidentialité";
+"PaywallTitle3" = "Confidentialité d'abord";
+"PaywallDescription3" = "Nous aimons simplifier les choses :\n\nNous n'utilisons délibérément pas d'analyse tierce ou de publicités dans Book Tracker, et nous ne collectons aucune donnée utilisateur d'aucune sorte. Nous nous engageons à nous assurer que cela reste le cas.\n\nVos paramètres et données sont stockés en toute sécurité sur vos propres appareils, et, le cas échéant, vous pouvez choisir de faire des sauvegardes ou de synchroniser via iCloud.";

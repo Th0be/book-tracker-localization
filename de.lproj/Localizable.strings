@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Importiere deine Bücher aus anderen Apps und Diensten, damit du deine Bibliothek nicht erneut aufbauen musst";
 "Onboarding6Title" = "Zitat speichern";
 "Onboarding6Message" = "Speichere deine Lieblingszitate an einem Ort, damit du sie später erneut lesen kannst";
-"Onboarding7Title" = "Leseherausforderungen";
+"Onboarding7Title" = "Widgets";
 "Onboarding7Message" = "Sieh dir deine Bibliotheks- und Lesestatistiken an und platziere sie mit tollen Widgets direkt auf deinem Startbildschirm";
 "Continue" = "Fortsetzen";
 "TryForFree" = "Kostenlos testen";
@@ -458,7 +458,7 @@
 "ReadingChallengeAlreadyExistError" = "Es gibt bereits eine Leseherausforderung für dieses Jahr. Möchtest du sie überschreiben?";
 "ReadingChallengeDeleteMessage" = "Möchtest du die Leseherausforderung löschen?";
 "ReadingStreak" = "Leseserie";
-"CurrentReadingStreak" = "Du befindest dich in der längsten Leseserie, die am %@ begonnen hat und seit %d Tagen läuft.";
+"CurrentReadingStreak" = "Du befindest dich in der längsten Leseserie die vor %@ begonnen hat und seit %d Tagen läuft";
 "PastReadingStreak" = "Deine längste Leseserie ist %@ und hat %d Tage gedauert.";
 "ReadPagesAverageDaily" = "Die durchschnittliche Anzahl der pro Tag gelesenen Seiten beträgt %.1f.";
 "ReadPagesAverageMonthly" = "Die durchschnittliche Anzahl der pro Monat gelesenen Seiten beträgt %.1f.";
@@ -804,3 +804,22 @@
 "SurnameName" = "Nachname Vorname";
 "MergeItem" = "Zusammenführen";
 "MergeItemsInfoMessage" = "Bist du sicher, dass du \n\n%@\n\n in \n\n%@ zusammenführen möchtest? \n\nDie Aktion kann nicht rückgängig gemacht werden.";
+
+"Backup&Restore" = "Backup & Wiederherstellung";
+"Backup" = "Backup";
+"Restore" = "Wiederherstellen";
+"RestoreBackupTitle" = "Aus Backup wiederherstellen?";
+"RestoreBackupMessage" = "Das Wiederherstellen aus einem Backup ersetzt alle aktuellen Daten durch die Daten aus dem Backup. Sind Sie sicher, dass Sie fortfahren möchten?";
+"RestoreBackupInfoMessage" = "Wählen Sie ein bestimmtes Backup aus, um die Daten auf diesem Gerät mit den Daten aus einem Backup zu überschreiben. Beachten Sie, dass es einige Zeit dauern kann, bis Backups mit iCloud synchronisiert werden.";
+"BackupFrequencyInfoMessage" = "Wählen Sie die Häufigkeit, mit der die App automatisch Ihre Daten sichert. Backups werden im Hintergrund erstellt.";
+"Daily" = "Täglich";
+"Weekly" = "Wöchentlich";
+"Monthly" = "Monatlich";
+"Never" = "Nie";
+"BackupFrequency" = "Backup-Frequenz";
+"BackupLimitInfoMessage" = "Wählen Sie die maximale Anzahl von Sicherungskopien aus, die lokal auf Ihrem Gerät gespeichert werden sollen.";
+"BackupLimit" = "Backup-Limit";
+
+"Privacy" = "Datenschutz";
+"PaywallTitle3" = "Datenschutz an erster Stelle";
+"PaywallDescription3" = "Wir mögen es, die Dinge einfach zu halten:\n\nWir verwenden absichtlich keine Analysen von Drittanbietern oder Anzeigen in Book Tracker und sammeln keinerlei Benutzerdaten. Wir setzen uns dafür ein, sicherzustellen, dass dies so bleibt.\n\nIhre Einstellungen und Daten werden sicher auf Ihren eigenen Geräten gespeichert, und wenn nötig, können Sie wählen, ein Backup zu erstellen oder über iCloud zu synchronisieren.";

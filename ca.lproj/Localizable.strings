@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Importa els teus llibres d'altres aplicacions i serveis perquè no hagis de començar a crear la teva biblioteca de nou";
 "Onboarding6Title" = "S'està desant el pressupost";
 "Onboarding6Message" = "Desa les teves cites preferides en un sol lloc perquè les puguis tornar a llegir més tard";
-"Onboarding7Title" = "Reptes de lectura";
+"Onboarding7Title" = "Widgets";
 "Onboarding7Message" = "Consulteu les estadístiques de la biblioteca i de lectura i col·loqueu-les directament a la vostra pantalla d'inici amb ginys fantàstics";
 "Continue" = "Continuar";
 "TryForFree" = "Prova gratis";
@@ -804,3 +804,22 @@
 "SurnameName" = "Cognom nom";
 "MergeItem" = "Fusionar";
 "MergeItemsInfoMessage" = "Segur que vols fusionar \n\n%@\n\n en \n\n%@? \n\nAquesta acció no es pot desfer.";
+
+"Backup&Restore" = "Còpia de seguretat i restauració";
+"Backup" = "Còpia de seguretat";
+"Restore" = "Restaurar";
+"RestoreBackupTitle" = "Restaurar des de la còpia de seguretat?";
+"RestoreBackupMessage" = "Restaurar des de la còpia de seguretat reemplaçarà totes les dades actuals amb les dades de la còpia de seguretat. Esteu segur que voleu continuar?";
+"RestoreBackupInfoMessage" = "Seleccioneu una còpia de seguretat específica per sobreescriure les dades en aquest dispositiu amb les dades d'una còpia de seguretat. Tingueu en compte que pot trigar una estona fins que les còpies de seguretat es sincronitzin amb iCloud.";
+"BackupFrequencyInfoMessage" = "Seleccioneu la freqüència amb què l'aplicació fa automàticament una còpia de seguretat de les vostres dades. Les còpies de seguretat es realitzaran en segon pla.";
+"Daily" = "Diariament";
+"Weekly" = "Setmanalment";
+"Monthly" = "Mensualment";
+"Never" = "Mai";
+"BackupFrequency" = "Freqüència de la còpia de seguretat";
+"BackupLimitInfoMessage" = "Selecciona el nombre màxim de còpies de seguretat que es guardaran localment al teu dispositiu.";
+"BackupLimit" = "Límit de còpies de seguretat";
+
+"Privacy" = "Privadesa";
+"PaywallTitle3" = "Privadesa primer";
+"PaywallDescription3" = "Ens agrada mantenir les coses simples:\n\nDe manera intencionada, no fem servir anàlisis de tercers ni anuncis a Book Tracker i no recopilem cap tipus de dades d'usuari. Estem compromesos a garantir que això continuï sent així.\n\nLes teves configuracions i dades es guarden de forma segura als teus propis dispositius i, quan sigui apropiat, pots optar per fer una còpia de seguretat o sincronitzar a través d'iCloud.";
