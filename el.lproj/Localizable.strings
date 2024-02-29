@@ -19,7 +19,7 @@
 "Reset" = "Επαναφορά";
 "Select" = "Επιλογή";
 "Save" = "Αποθήκευση";
-"PagesNumber" = "%i σελίδες";
+"PagesNumber" = "%i Σελίδες";
 "NotAvailable" = "Μη Διαθέσιμο";
 "ManageBook" = "Προσθαφαίρεση Βιβλίου στη Βιβλιοθήκη ή στη Λίστα Επιθυμιών";
 "AddToLibrary" = "Προσθήκη στη Βιβλιοθήκη";
@@ -35,7 +35,7 @@
 "Goodreads" = "Goodreads";
 "ScanBarCode" = "Παρακαλώ σκανάρετε το Γραμμωτό Κώδικα για λήψη πληροφοριών του Βιβλίου";
 "AddBookPlaceholder" = "Προσθέστε Βιβλία στη Λίστα σας αγγίζοντας το εικονίδιο +";
-"SearchBookPlaceholder" = "Αναζήτηση Βιβλίων μέσω Τίτλου, Συγγραφέα, ή ISBN";
+"SearchBookPlaceholder" = "Αναζήτηση Βιβλίου μέσω Τίτλου, Συγγραφέα, ή ISBN";
 
 "TitlePlaceholder" = "Εισάγετε Τίτλο...";
 "AuthorsPlaceholder" = "Εισάγετε Συγγραφείς...";
