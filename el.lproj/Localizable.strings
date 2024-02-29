@@ -57,7 +57,7 @@
 "ReduceHaptic" = "Μείωση Δονήσεων";
 "EmailSubject" = "Support %@. Version: %@ - %@";
 
-"InfoMessage1" = "Το %@ είναι μια εφαρμογή για να καταλογογραφείτε εύκολα τα Βιβλία που έχετε αγοράσει και θα θέλατε να διαβάσετε. Μπορείτε να προσθέσετε ένα Βιβλίο αναζητώντας τον Τίτλο, τον Συγγραφέα, το ISBN, σκανάρωντας τον Γραμμωτό Κώδικα, ή εισάγοντας χειροκίνητα τα στοιχεία του.\n\nΕάν έχετε ενεργό το iCloud στις συσκευές σας, η Βιβλιοθήκη σας θα συγχρονίζεται σε όλες.\n\nΓια απορίες ή αιτήματα, μπορείτε να στείλετε Email από τις \"Ρυθμίσεις\" της εφαρμογής.";
+"InfoMessage1" = "Το %@ είναι μια εφαρμογή για να καταλογογραφείτε εύκολα τα Βιβλία που έχετε αγοράσει και θα θέλατε να διαβάσετε. Μπορείτε να προσθέσετε ένα Βιβλίο αναζητώντας τον Τίτλο, τον Συγγραφέα, το ISBN, σκανάροντας τον Γραμμωτό Κώδικα, ή εισάγοντας χειροκίνητα τα στοιχεία του.\n\nΕάν έχετε ενεργό το iCloud στις συσκευές σας, η Βιβλιοθήκη σας θα συγχρονίζεται σε όλες.\n\nΓια απορίες ή αιτήματα, μπορείτε να στείλετε Email από τις \"Ρυθμίσεις\" της εφαρμογής.";
 
 "Attention" = "Προσοχή";
 "Ok" = "ΟΚ";
@@ -70,13 +70,13 @@
 "Authors" = "Συγγραφείς";
 "ReadingStatus" = "Κατάσταση Ανάγνωσης";
 
-"DeleteAllTitle" = "Are you sure?";
-"DeleteAllMessage" = "This action is irreversible and all your books will be deleted from your library";
-"DeleteAllAction" = "Delete all";
+"DeleteAllTitle" = "Είστε Σίγουροι;";
+"DeleteAllMessage" = "Αυτή η ενέργεια είναι μη αναστρέψιμη, και όλα σας τα Βιβλία θα διαγραφούν από τη Βιβλιοθήκη σας.";
+"DeleteAllAction" = "Διαγραφή Όλων";
 
-"IsbnNotFoundMessage" = "No book found searching the bar code. Do you want to try with a less accurate search? The book found may not match your barcode";
+"IsbnNotFoundMessage" = "Δεν βρέθηκε Βιβλίο μέσω του Γραμμωτού Κώδικα. Θέλετε να γίνει διευρυμένη αναζήτηση; Το Βιβλίο που θα βρεθεί ίσως να μην αντιστοιχεί στον Γραμμωτό Κώδικά σας.";
 
-"CannotShowEmailComposerTitle" = "Cannot send email";
+"CannotShowEmailComposerTitle" = "Αδυναμία αποστολής Email";
 "CannotShowEmailComposerMessage" = "In order to send the email, you have to configure the app on your device";
 
 "InsertOrSearchTitle" = "Add a book";
