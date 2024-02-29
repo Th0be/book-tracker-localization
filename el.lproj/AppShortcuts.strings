@@ -8,21 +8,21 @@
   Greek translation by Efthymis Takos
 */
 
-"Update reading progress in ${applicationName}" = "Update reading progress in ${applicationName}";
-"Insert reading progress in ${applicationName}" = "Insert reading progress in ${applicationName}";
-"Update ${book} reading progress in ${applicationName}" = "Update ${book} reading progress in ${applicationName}";
-"Insert ${book} reading progress in ${applicationName}" = "Insert ${book} reading progress in ${applicationName}";
-"Add new quote to ${book} in ${applicationName}" = "Add new quote to ${book} in ${applicationName}";
-"Save new quote to ${book} in ${applicationName}" = "Save new quote to ${book} in ${applicationName}";
-"Get reading challenge in ${applicationName}" = "Get reading challenge in ${applicationName}";
-"Show reading challenge in ${applicationName}" = "Show reading challenge in ${applicationName}";
+"Update reading progress in ${applicationName}" = "Ενημέρωση Προόδου Ανάγνωσης στο ${applicationName}";
+"Insert reading progress in ${applicationName}" = "Εισαγωγή Προόδου Ανάγνωσης στο ${applicationName}";
+"Update ${book} reading progress in ${applicationName}" = "Ενημέρωση ${book} Προόδου Ανάγνωσης στο ${applicationName}";
+"Insert ${book} reading progress in ${applicationName}" = "Εισαγωγή ${book} Προόδου Ανάγνωσης στο ${applicationName}";
+"Add new quote to ${book} in ${applicationName}" = "Προσθήκη νέας Παράθεσης στο ${book} στο ${applicationName}";
+"Save new quote to ${book} in ${applicationName}" = "Αποθήκευση νέας Παράθεσης στο ${book} στο ${applicationName}";
+"Get reading challenge in ${applicationName}" = "Λήψη της Πρόκλησης Ανάγνωσης στο ${applicationName}";
+"Show reading challenge in ${applicationName}" = "Εμφάνιση της Πρόκλησης Ανάγνωσης στο ${applicationName}";
 
-"Open current reading book in ${applicationName}" = "Open current reading book in ${applicationName}";
-"Show current reading book in ${applicationName}" = "Show current reading book in ${applicationName}";
-"Open Library in ${applicationName}" = "Open Library in ${applicationName}";
-"Show Library book in ${applicationName}" = "Show Library book in ${applicationName}";
-"Open Wishlist in ${applicationName}" = "Open Wishlist in ${applicationName}";
-"Show Wishlist book in ${applicationName}" = "Show Wishlist book in ${applicationName}";
+"Open current reading book in ${applicationName}" = "Άνοιγμα τρέχοντος Βιβλίου στο ${applicationName}";
+"Show current reading book in ${applicationName}" = "Εμφάνιση τρέχοντος Βιβλίου στο ${applicationName}";
+"Open Library in ${applicationName}" = "Άνοιγμα Βιβλιοθήκης στο ${applicationName}";
+"Show Library book in ${applicationName}" = "Εμφάνιση Βιβλιοθήκης στο ${applicationName}";
+"Open Wishlist in ${applicationName}" = "Άνοιγμα Λίστας Επιθυμιών στο ${applicationName}";
+"Show Wishlist book in ${applicationName}" = "Εμφάνιση Βιβλίου Λίστας Επιθυμιών στο ${applicationName}";
 
-"Scan Barcode in ${applicationName}" = "Scan Barcode in ${applicationName}";
-"Search Online in ${applicationName}" = "Search Online in ${applicationName}";
+"Scan Barcode in ${applicationName}" = "Σκανάρισμα Γραμμωτού Κώδικα στο ${applicationName}";
+"Search Online in ${applicationName}" = "Διαδικτυακή Αναζήτηση στο ${applicationName}";
