@@ -634,10 +634,10 @@
 "AddReadingStatus" = "Lesezustand hinzufügen";
 "ReadingStates" = "Lesestatus";
 "ReadingStatusPagesCompletion" = "%d von %d Seiten";
-"ReadingStatusTimeCompletion" = "%d von %d Minuten";
+"ReadingStatusTimeCompletion" = "%@ von %@";
 "ReadingStatusPagesToCompletion" = "%d Seiten verbleiben";
 "ReadingStatusPercentageToCompletion" = "%@ verbleiben";
-"ReadingStatusTimeToCompletion" = "%d Minuten verbleiben";
+"ReadingStatusTimeToCompletion" = "%@ verbleiben";
 "ReadingStatusType" = "Typ";
 "ReadingStatus" = "Lesezustand";
 "StartReadingDate" = "Startdatum der Lektüre";
@@ -650,12 +650,12 @@
 "ReadingTypePercentage" = "Prozent";
 "ReadingTypeTime" = "Zeit";
 "ReadingProgress" = "Lesefortschritt";
-"OfNMinutes" = "von %lld Minuten";
+"OfNMinutes" = "von %@";
 "OfPercentage" = "von 100%";
 "ReadingProgressExceedError" = "Der eingegebene Wert übersteigt den maximalen Wert";
 "ReadingProgressLowerError" = "Der eingegebene Wert ist niedriger als der vorherige Wert";
 "Completed" = "Abgeschlossen";
-"FromToMinute" = "Von Minute %@ bis Minute %@";
+"FromToMinute" = "Von %@ bis %@";
 "Progress" = "Fortschritt";
 "ProgressList" = "Liste des Fortschritts";
 "AddDate" = "Datum hinzufügen";
@@ -823,3 +823,26 @@
 "Privacy" = "Datenschutz";
 "PaywallTitle3" = "Datenschutz an erster Stelle";
 "PaywallDescription3" = "Wir mögen es, die Dinge einfach zu halten:\n\nWir verwenden absichtlich keine Analysen von Drittanbietern oder Anzeigen in Book Tracker und sammeln keinerlei Benutzerdaten. Wir setzen uns dafür ein, sicherzustellen, dass dies so bleibt.\n\nIhre Einstellungen und Daten werden sicher auf Ihren eigenen Geräten gespeichert, und wenn nötig, können Sie wählen, ein Backup zu erstellen oder über iCloud zu synchronisieren.";
+
+"AddReadingStatusError1" = "Um zu speichern, müssen Sie die Länge des Buches und das Enddatum der Lektüre eingeben. Wenn Sie nicht angeben möchten, wann Sie das Buch gelesen haben, löschen Sie das Startdatum der Lektüre.";
+"AddReadingStatusError2" = "Um zu speichern, müssen Sie die Länge des Buches eingeben, und das Startdatum der Lektüre muss vor dem Enddatum der Lektüre liegen. Wenn Sie nicht angeben möchten, wann Sie das Buch gelesen haben, löschen Sie das Startdatum der Lektüre.";
+"AddReadingStatusError3" = "Um zu speichern, muss das Startdatum der Lektüre vor dem Enddatum der Lektüre liegen. Wenn Sie nicht angeben möchten, wann Sie das Buch gelesen haben, löschen Sie das Startdatum der Lektüre.";
+"AddReadingStatusError4" = "Um zu speichern, müssen Sie die Länge des Buches eingeben.";
+"AddReadingStatusError5" = "Um zu speichern, müssen Sie das Enddatum der Lektüre eingeben. Wenn Sie nicht angeben möchten, wann Sie das Buch gelesen haben, löschen Sie das Startdatum der Lektüre.";
+
+"ReadingStatusTypeDescription" = "Wählen Sie aus, wie Sie den Fortschritt des Buches verfolgen möchten. 'Seiten' ermöglicht es Ihnen, den Fortschritt zu aktualisieren, indem Sie die Anzahl der gelesenen Seiten eingeben, 'Prozentsatz' ermöglicht es Ihnen, den Fortschritt in Prozent einzugeben (nützlich für E-Books), und 'Zeit' gibt Ihnen die Möglichkeit, den Fortschritt des Hörbuchs zu verfolgen.";
+"InsertTotalPagesFootnote" = "Geben Sie die Gesamtzahl der Seiten im Buch ein.";
+"InsertTotalLengthMinutesFootnote" = "Geben Sie die Gesamtzahl der Minuten des Hörbuchs ein.";
+
+"Pause" = "Pause";
+"End" = "Ende";
+"Resume" = "Fortsetzen";
+"ReadingTimer" = "Lese-Timer";
+"StartReadingTimer" = "Lese-Timer starten";
+"DismissReadingSessionMessage" = "Möchtest du deine Lese-Session ohne Speichern beenden?";
+"BookReadingRateInfo" = "Wenn du in diesem Tempo weiterliest, dauert es %@, um das Buch zu beenden.";
+"YouAreNotReadingTheBookError" = "Um deine Lese-Session zu starten, musst du zuerst einen Lesestatus für das ausgewählte Buch erstellen.";
+"StartReadingSession" = "Lese-Session starten";
+"StartReadingSessionDescription" = "Starte die Lese-Session des ausgewählten Buchs";
+"Start reading session of ${book}" = "Starte die Lese-Session von ${book}";
+"ReadingSessionCreated" = "Lese-Session erstellt";
