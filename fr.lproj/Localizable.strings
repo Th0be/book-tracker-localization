@@ -634,10 +634,10 @@
 "AddReadingStatus" = "Ajouter un statut de lecture";
 "ReadingStates" = "États de lecture";
 "ReadingStatusPagesCompletion" = "%d de %d pages";
-"ReadingStatusTimeCompletion" = "%d de %d minutes";
+"ReadingStatusTimeCompletion" = "%@ de %@";
 "ReadingStatusPagesToCompletion" = "%d pages restantes";
 "ReadingStatusPercentageToCompletion" = "%@ restant";
-"ReadingStatusTimeToCompletion" = "%d minutes restantes";
+"ReadingStatusTimeToCompletion" = "%@ restantes";
 "ReadingStatusType" = "Type";
 "ReadingStatus" = "Statut de lecture";
 "StartReadingDate" = "Date de début de lecture";
@@ -650,12 +650,12 @@
 "ReadingTypePercentage" = "Pourcentage";
 "ReadingTypeTime" = "Temps";
 "ReadingProgress" = "Progression de lecture";
-"OfNMinutes" = "de %lld minutes";
+"OfNMinutes" = "de %@";
 "OfPercentage" = "de 100%";
 "ReadingProgressExceedError" = "La valeur saisie dépasse la valeur maximale";
 "ReadingProgressLowerError" = "La valeur saisie est inférieure à la valeur précédente";
 "Completed" = "Terminé";
-"FromToMinute" = "De la minute %@ à la minute %@";
+"FromToMinute" = "De %@ à %@";
 "Progress" = "Progression";
 "ProgressList" = "Liste de progression";
 "AddDate" = "Ajouter une date";
@@ -823,3 +823,26 @@
 "Privacy" = "Confidentialité";
 "PaywallTitle3" = "Confidentialité d'abord";
 "PaywallDescription3" = "Nous aimons simplifier les choses :\n\nNous n'utilisons délibérément pas d'analyse tierce ou de publicités dans Book Tracker, et nous ne collectons aucune donnée utilisateur d'aucune sorte. Nous nous engageons à nous assurer que cela reste le cas.\n\nVos paramètres et données sont stockés en toute sécurité sur vos propres appareils, et, le cas échéant, vous pouvez choisir de faire des sauvegardes ou de synchroniser via iCloud.";
+
+"AddReadingStatusError1" = "Pour enregistrer, vous devez entrer la longueur du livre et la date de fin de lecture. Si vous ne voulez pas indiquer quand vous avez lu le livre, supprimez la date de début de lecture.";
+"AddReadingStatusError2" = "Pour enregistrer, vous devez entrer la longueur du livre, et la date de début de lecture doit être antérieure à la date de fin de lecture. Si vous ne voulez pas indiquer quand vous avez lu le livre, supprimez la date de début de lecture.";
+"AddReadingStatusError3" = "Pour enregistrer, la date de début de lecture doit être antérieure à la date de fin de lecture. Si vous ne voulez pas indiquer quand vous avez lu le livre, supprimez la date de début de lecture.";
+"AddReadingStatusError4" = "Pour enregistrer, vous devez entrer la longueur du livre.";
+"AddReadingStatusError5" = "Pour enregistrer, vous devez entrer la date de fin de lecture. Si vous ne voulez pas indiquer quand vous avez lu le livre, supprimez la date de début de lecture.";
+
+"ReadingStatusTypeDescription" = "Sélectionnez comment vous souhaitez suivre la progression du livre. 'Pages' vous permet de mettre à jour la progression en entrant le nombre de pages lues, 'Pourcentage' vous permet d'entrer la progression en pourcentage (utile pour les livres électroniques), et 'Temps' vous permet de suivre la progression d'un livre audio.";
+"InsertTotalPagesFootnote" = "Entrez le nombre total de pages dans le livre.";
+"InsertTotalLengthMinutesFootnote" = "Entrez le nombre total de minutes du livre audio.";
+
+"Pause" = "Pause";
+"End" = "Fin";
+"Resume" = "Reprendre";
+"ReadingTimer" = "Chronomètre de lecture";
+"StartReadingTimer" = "Démarrer le chronomètre de lecture";
+"DismissReadingSessionMessage" = "Voulez-vous annuler votre session de lecture sans sauvegarder ?";
+"BookReadingRateInfo" = "En continuant à lire à ce rythme, il vous faudra %@ pour finir le livre.";
+"YouAreNotReadingTheBookError" = "Pour commencer votre session de lecture, vous devez d'abord créer un statut de lecture pour le livre sélectionné.";
+"StartReadingSession" = "Commencer la session de lecture du livre";
+"StartReadingSessionDescription" = "Démarrer la session de lecture du livre sélectionné";
+"Start reading session of ${book}" = "Commencer la session de lecture de ${book}";
+"ReadingSessionCreated" = "Session de lecture créée";

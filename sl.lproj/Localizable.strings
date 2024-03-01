@@ -634,10 +634,10 @@
 "AddReadingStatus" = "Dodaj bralno stanje";
 "ReadingStates" = "Bralna stanja";
 "ReadingStatusPagesCompletion" = "%d od %d strani";
-"ReadingStatusTimeCompletion" = "%d od %d minut";
+"ReadingStatusTimeCompletion" = "%@ od %@";
 "ReadingStatusPagesToCompletion" = "preostalo še %d strani";
 "ReadingStatusPercentageToCompletion" = "preostalo še %@";
-"ReadingStatusTimeToCompletion" = "preostalih še %d minut";
+"ReadingStatusTimeToCompletion" = "preostalih še %@";
 "ReadingStatusType" = "Tip";
 "ReadingStatus" = "Bralno stanje";
 "StartReadingDate" = "Začetni datum branja";
@@ -650,12 +650,12 @@
 "ReadingTypePercentage" = "Odstotek";
 "ReadingTypeTime" = "Čas";
 "ReadingProgress" = "Napredek pri branju";
-"OfNMinutes" = "od %lld minut";
+"OfNMinutes" = "od %@";
 "OfPercentage" = "od 100%";
 "ReadingProgressExceedError" = "Vnesena vrednost presega največjo vrednost";
 "ReadingProgressLowerError" = "Vnesena vrednost je manjša od prejšnje vrednosti";
 "Completed" = "Končano";
-"FromToMinute" = "Od minute %@ do minute %@";
+"FromToMinute" = "Od %@ do %@";
 "Progress" = "Napredek";
 "ProgressList" = "Seznam napredka";
 "AddDate" = "Dodaj datum";
@@ -823,3 +823,26 @@
 "Privacy" = "Zasebnost";
 "PaywallTitle3" = "Najprej zasebnost";
 "PaywallDescription3" = "Radi imamo, da so stvari preproste:\n\nNamenoma ne uporabljamo analitike ali oglasov tretjih oseb v Book Tracker in ne zbiramo nobenih podatkov uporabnikov katere koli vrste. Zavezani smo, da to ostane tako.\n\nVaše nastavitve in podatki se varno shranjujejo na vaših lastnih napravah in, kjer je primerno, lahko izberete varnostno kopiranje ali sinhronizacijo prek storitve iCloud.";
+
+"AddReadingStatusError1" = "Da shranite, morate vnesti dolžino knjige in datum konca branja. Če ne želite vnesti, kdaj ste prebrali knjigo, izbrišite datum začetka branja.";
+"AddReadingStatusError2" = "Da shranite, morate vnesti dolžino knjige, in datum začetka branja mora biti pred datumom konca branja. Če ne želite vnesti, kdaj ste prebrali knjigo, izbrišite datum začetka branja.";
+"AddReadingStatusError3" = "Da shranite, mora biti datum začetka branja pred datumom konca branja. Če ne želite vnesti, kdaj ste prebrali knjigo, izbrišite datum začetka branja.";
+"AddReadingStatusError4" = "Da shranite, morate vnesti dolžino knjige.";
+"AddReadingStatusError5" = "Da shranite, morate vnesti datum konca branja. Če ne želite vnesti, kdaj ste prebrali knjigo, izbrišite datum začetka branja.";
+
+"ReadingStatusTypeDescription" = "Izberite, kako želite spremljati napredek knjige. 'Strani' vam omogočajo posodabljanje napredka z vnosom števila prebranih strani, 'Odstotek' vam omogoča vnos napredka kot odstotka (uporabno za e-knjige), in 'Čas' vam omogoča sledenje napredku avdioknjige.";
+"InsertTotalPagesFootnote" = "Vnesite skupno število strani v knjigi.";
+"InsertTotalLengthMinutesFootnote" = "Vnesite skupno število minut avdioknjige.";
+
+"Pause" = "Premor";
+"End" = "Konec";
+"Resume" = "Nadaljuj";
+"ReadingTimer" = "Časovnik branja";
+"StartReadingTimer" = "Začni časovnik branja";
+"DismissReadingSessionMessage" = "Ali želite opustiti vašo sejo branja brez shranjevanja?";
+"BookReadingRateInfo" = "Če nadaljujete z branjem s tem tempom, bo trajalo %@, da končate knjigo.";
+"YouAreNotReadingTheBookError" = "Za začetek vaše seje branja morate najprej ustvariti stanje branja za izbrano knjigo.";
+"StartReadingSession" = "Začnite sejo branja knjige";
+"StartReadingSessionDescription" = "Začnite sejo branja izbrane knjige";
+"Start reading session of ${book}" = "Začnite sejo branja ${book}";
+"ReadingSessionCreated" = "Ustvarjena seja branja";

@@ -634,10 +634,10 @@
 "AddReadingStatus" = "Afegir estat de lectura";
 "ReadingStates" = "Estats de lectura";
 "ReadingStatusPagesCompletion" = "%d de %d pàgines";
-"ReadingStatusTimeCompletion" = "%d de %d minuts";
+"ReadingStatusTimeCompletion" = "%@ de %@";
 "ReadingStatusPagesToCompletion" = "%d pàgines restants";
 "ReadingStatusPercentageToCompletion" = "%@ restants";
-"ReadingStatusTimeToCompletion" = "%d minuts restants";
+"ReadingStatusTimeToCompletion" = "%@ restants";
 "ReadingStatusType" = "Tipus";
 "ReadingStatus" = "Estat de lectura";
 "StartReadingDate" = "Data d'inici de lectura";
@@ -650,12 +650,12 @@
 "ReadingTypePercentage" = "Percentatge";
 "ReadingTypeTime" = "Temps";
 "ReadingProgress" = "Progrés de lectura";
-"OfNMinutes" = "de %lld minuts";
+"OfNMinutes" = "de %@";
 "OfPercentage" = "de 100%";
 "ReadingProgressExceedError" = "El valor introduït supera el valor màxim";
 "ReadingProgressLowerError" = "El valor introduït és inferior al valor anterior";
 "Completed" = "Completat";
-"FromToMinute" = "Del minut %@ al minut %@";
+"FromToMinute" = "Del %@ al %@";
 "Progress" = "Progrés";
 "ProgressList" = "Llista de progrés";
 "AddDate" = "Afegir data";
@@ -823,3 +823,26 @@
 "Privacy" = "Privadesa";
 "PaywallTitle3" = "Privadesa primer";
 "PaywallDescription3" = "Ens agrada mantenir les coses simples:\n\nDe manera intencionada, no fem servir anàlisis de tercers ni anuncis a Book Tracker i no recopilem cap tipus de dades d'usuari. Estem compromesos a garantir que això continuï sent així.\n\nLes teves configuracions i dades es guarden de forma segura als teus propis dispositius i, quan sigui apropiat, pots optar per fer una còpia de seguretat o sincronitzar a través d'iCloud.";
+
+"AddReadingStatusError1" = "Per desar-ho, has d'ingressar la longitud del llibre i la data de finalització de la lectura. Si no vols indicar quan has llegit el llibre, elimina la data d'inici de la lectura.";
+"AddReadingStatusError2" = "Per desar-ho, has d'ingressar la longitud del llibre, i la data d'inici de la lectura ha de ser anterior a la data de finalització de la lectura. Si no vols indicar quan has llegit el llibre, elimina la data d'inici de la lectura.";
+"AddReadingStatusError3" = "Per desar-ho, la data d'inici de la lectura ha de ser anterior a la data de finalització de la lectura. Si no vols indicar quan has llegit el llibre, elimina la data d'inici de la lectura.";
+"AddReadingStatusError4" = "Per desar-ho, has d'ingressar la longitud del llibre.";
+"AddReadingStatusError5" = "Per desar-ho, has d'ingressar la data de finalització de la lectura. Si no vols indicar quan has llegit el llibre, elimina la data d'inici de la lectura.";
+
+"ReadingStatusTypeDescription" = "Seleccioneu com voleu fer un seguiment del progrés del llibre. 'Pàgines' us permet actualitzar el progrés introduint el nombre de pàgines llegides, 'Percentatge' us permet introduir el progrés com a percentatge (útil per als llibres electrònics), i 'Temps' us permet fer un seguiment del progrés del llibre d'àudio.";
+"InsertTotalPagesFootnote" = "Introduïu el nombre total de pàgines del llibre.";
+"InsertTotalLengthMinutesFootnote" = "Introduïu el nombre total de minuts del llibre d'àudio.";
+
+"Pause" = "Pausa";
+"End" = "Final";
+"Resume" = "Reprendre";
+"ReadingTimer" = "Cronòmetre de Lectura";
+"StartReadingTimer" = "Iniciar el cronòmetre de lectura";
+"DismissReadingSessionMessage" = "Voleu descartar la vostra sessió de lectura sense desar?";
+"BookReadingRateInfo" = "Continuant a aquest ritme, el temps que trigarà a acabar el llibre és %@.";
+"YouAreNotReadingTheBookError" = "Per iniciar la vostra sessió de lectura, primer cal que creeu un estat de lectura pel llibre seleccionat.";
+"StartReadingSession" = "Iniciar la sessió de lectura del llibre";
+"StartReadingSessionDescription" = "Iniciar la sessió de lectura del llibre seleccionat";
+"Start reading session of ${book}" = "Iniciar la sessió de lectura de ${book}";
+"ReadingSessionCreated" = "Sessió de lectura creada";
