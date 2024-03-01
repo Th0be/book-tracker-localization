@@ -81,13 +81,13 @@
 
 "InsertOrSearchTitle" = "Προσθήκη Βιβλίου";
 
-"CameraPermissionNotGranted" = "Αδυναμία πρόσβασης στην Κάμερα λόγω περιορισμού από εσάς. Παρακαλώ, μεταβείτε στις ρυθμίσεις της εφαρμογής και επιτρέψτε την πρόσβαση στην Κάμερα.";
+"CameraPermissionNotGranted" = "Αδυναμία πρόσβασης στην Κάμερα λόγω περιορισμού ιδιωτικότητας. Παρακαλώ, μεταβείτε στις ρυθμίσεις της εφαρμογής και επιτρέψτε την πρόσβαση στην Κάμερα.";
 "OpenSettings" = "Άνοιγμα Ρυθμίσεων";
 
 "SaveBookError" = "Σφάλμα κατά την αποθήκευση του Βιβλίου. Παρακαλώ δοκιμάστε ξανά.";
 
 "BarCodeBookNotFound" = "Δεν βρέθηκε Βιβλίο μέσω του Γραμμωτού Κώδικα. Παρακαλώ, αναζητήστε το Βιβλίο χειροκίνητα.";
-"BarCodeBookSetupNotCompleted" = "Η συσκευή σας δεν υποστηρίζει σκανάρισμα Κώδικα από Αντικείμενο. Παρακαλώ, αναζητήστε το Βιβλίο χειροκίνητα.";
+"BarCodeBookSetupNotCompleted" = "Η συσκευή σας δεν υποστηρίζει σκανάρισμα Κώδικα από αντικείμενο. Παρακαλώ, αναζητήστε το Βιβλίο χειροκίνητα.";
 
 "SortTitle" = "Ταξινόμηση Λίστας";
 "SortByName" = "Ανά Τίτλο";
@@ -162,7 +162,7 @@
 "Descending" = "Μειούμενο";
 
 "OtherFromSeries" = "Άλλα από τη Σειρά";
-"Series" = "Σειρές";
+"Series" = "Σειρά";
 "SortBySeries" = "Ανά Σειρά";
 
 "Title" = "Τίτλος";
@@ -183,11 +183,11 @@
 "SelectFile" = "Επιλογή Αρχείου";
 "File" = "Αρχείο";
 "LeaveATip" = "Αφήστε Φιλοδώρημα";
-"LeaveATipDescription" = "Γεια σας, είμαι ο Σιμόνε, ο δημιουργός του Book Tracker. Εύχομαι να σας αρέσει η εφαρμογή και να σας βοηθά στην καταλογογράφηση των βιβλίων σας.\n\nΕάν θέλετε να με βοηθήσετε περαιτέρω με τα λειτουργικά έξοδα, μπορείτε να το κάνετε με μια δωρεά. Ευχαριστώ πολύ ❤️";
+"LeaveATipDescription" = "Γεια σας, είμαι ο Σιμόνε, ο δημιουργός του Book Tracker. Εύχομαι να σας αρέσει η εφαρμογή και να σας βοηθά στην καταλογογράφηση των βιβλίων σας.\n\nΕάν θέλετε να με βοηθήσετε περαιτέρω με τα λειτουργικά έξοδα, μπορείτε να το κάνετε με μια δωρεά. Ευχαριστώ πολύ. ❤️";
 "ThanksgivingTitle" = "Επιτυχής Αγορά";
-"ThanksgivingMessage" = "Ευχαριστώ για την υποστήριξή σας ❤️";
-"ErrorOccurred" = "Σφάλμα. Παρακαλώ, δοκιμάστε ξανά";
-"CannotMakePurchase" = "Η συσκευή σας δεν μπορεί να πραγματοποιήσει αγορές";
+"ThanksgivingMessage" = "Ευχαριστώ για την υποστήριξή σας. ❤️";
+"ErrorOccurred" = "Σφάλμα. Παρακαλώ, δοκιμάστε ξανά.";
+"CannotMakePurchase" = "Η συσκευή σας δεν μπορεί να πραγματοποιήσει αγορές.";
 
 "Reddit" = "Κοινότητα Book Tracker";
 "Website" = "Ιστοσελίδα";
@@ -251,10 +251,10 @@
 "Overwrite" = "Αντικατάσταση Όλων";
 "Merge" = "Μόνο Συμπλήρωση κενών";
 
-"StandardLayout" = "Τυπικό";
-"CompactLayout" = "Συμπτυγμένο";
-"LittleCardLayout" = "Εξώφυλλο (Μικρό)";
-"BigCardLayout" = "Εξώφυλλο (Μεγάλο)";
+"StandardLayout" = "Τυπική";
+"CompactLayout" = "Συμπτυγμένη";
+"LittleCardLayout" = "Μικρό Εξώφυλλο";
+"BigCardLayout" = "Μεγάλο Εξώφυλλο";
 "ListLayout" = "Λίστα";
 
 "InsertionDate" = "Ημερομηνία Εισαγωγής";
@@ -285,7 +285,7 @@
 "InAppFeature2" = "Αλλαγή εικονιδίου";
 "InAppFeature3" = "Εισαγωγή και Εξαγωγή Βιβλιοθήκης";
 "InAppFeature4" = "Υποστήριξη ενός ανεξάρτητου προγραμματιστή";
-"InAppFooter" = "Το Book Tracker απαιτεί δύο διαφορετικές αγορές, μία για την έκδοση για iOS (iPhone και iPad) και μία για macOS. Η εφαρμογή σέβεται την ιδιωτικότητά σας και δεν συλλέγει δεδομένα σας. Όλες οι λειτουργίες εκτελούνται στη συσκευή σας, και τα δεδομένα συγχρονίζονται μέσω του iCloud λογαριασμού σας.";
+"InAppFooter" = "Το Book Tracker απαιτεί δύο διαφορετικές αγορές, μία για την έκδοση για iOS (iPhone και iPad) και μία για macOS. Η εφαρμογή σέβεται την ιδιωτικότητά σας και δεν συλλέγει προσωπικά δεδομένα σας. Όλες οι λειτουργίες εκτελούνται στη συσκευή σας, και τα δεδομένα συγχρονίζονται μέσω του iCloud λογαριασμού σας.";
 "InAppPurchase" = "Αγορά %@";
 "InAppRestore" = "Επαναφορά Αγοράς";
 "NoPurchaseToRestore" = "Δεν υπάρχει προηγούμενη αγορά στον λογαριασμό σας.";
@@ -294,24 +294,24 @@
 "Duplicate" = "Διπλότυπο";
 
 "ImportSelectFileTitle" = "Το Book Tracker υποστηρίζει την εισαγωγή Βιβλιοθήκης μέσω Αρχείου CSV. Επιλέξτε ένα Αρχείο CSV για εισαγωγή της Βιβλιοθήκης σας από άλλη εφαρμογή ή υπηρεσία. Εάν θέλετε να κάνετε εισαγωγή Βιβλιοθήκης από το Goodreads, πρώτα κάντε εξαγωγή Βιβλιοθήκης του Goodreads σε Αρχείο CSV από την ιστοσελίδα του.";
-"ImportAssociateFieldsTitle" = "Το Book Tracker προσπαθεί αυτόματα να συσχετίσει τις κεφαλίδες των στηλών του Αρχείου CSV με τα πεδία της εφαρμογής. Εάν κάποιο πεδίο μείνει κενό, επιλέξτε το για να το συσχετίσετε χειροκίνητα. Εάν κάποια πεδία δεν έχουν αντίστοιχία στο Αρχείο CSV, μπορούν να παραμείνουν κενά. Για να προχωρήσει η εισαγωγή δεδομένων, θα πρέπει να επιλεγεί έστω ο Τίτλος Βιβλίου από τα δεδομένα του Αρχείου CSV.";
+"ImportAssociateFieldsTitle" = "Το Book Tracker προσπαθεί αυτόματα να συσχετίσει τις κεφαλίδες των στηλών του Αρχείου CSV με τα πεδία της εφαρμογής. Εάν κάποιο πεδίο μείνει κενό, επιλέξτε το για να το συσχετίσετε χειροκίνητα. Εάν κάποια πεδία δεν έχουν αντιστοιχία στο Αρχείο CSV, μπορούν να παραμείνουν κενά. Για να προχωρήσει η εισαγωγή δεδομένων, θα πρέπει να επιλεγεί έστω ο Τίτλος του Βιβλίου από τα δεδομένα του Αρχείου CSV.";
 
 "Location" = "Τοποθεσία";
 "Bookcase" = "Βιβλιοθήκη";
 "Shelf" = "Ράφι";
 "AddLocation" = "Προσθήκη Τοποθεσίας";
-"AddSeriesPlaceholder" = "Προσθέστε Σειρά στη Λίστα σας, αγγίζοντας το εικονίδιο +";
-"AddCategoriesPlaceholder" = "Προσθέστε Κατηγορία στη Λίστα σας, αγγίζοντας το εικονίδιο +";
-"AddLocationsPlaceholder" = "Προσθέστε Τοποθεσία στη Λίστα σας, αγγίζοντας το εικονίδιο +";
-"AddBookcasesPlaceholder" = "Προσθέστε Βιβλιοθήκες στη Λίστα σας, αγγίζοντας το εικονίδιο +";
-"AddShelvesPlaceholder" = "Προσθέστε Ράφια στη Λίστα σας, αγγίζοντας το εικονίδιο +";
-"AddTagsPlaceholder" = "Προσθέστε Ετικέτες στη Λίστα σας, αγγίζοντας το εικονίδιο +";
-"AddAuthorsPlaceholder" = "Προσθέστε Συγγραφείς στη Λίστα σας, αγγίζοντας το εικονίδιο +";
+"AddSeriesPlaceholder" = "Προσθέστε Σειρά στη Λίστα σας αγγίζοντας το εικονίδιο +";
+"AddCategoriesPlaceholder" = "Προσθέστε Κατηγορία στη Λίστα σας αγγίζοντας το εικονίδιο +";
+"AddLocationsPlaceholder" = "Προσθέστε Τοποθεσία στη Λίστα σας αγγίζοντας το εικονίδιο +";
+"AddBookcasesPlaceholder" = "Προσθέστε Βιβλιοθήκες στη Λίστα σας αγγίζοντας το εικονίδιο +";
+"AddShelvesPlaceholder" = "Προσθέστε Ράφια στη Λίστα σας αγγίζοντας το εικονίδιο +";
+"AddTagsPlaceholder" = "Προσθέστε Ετικέτες στη Λίστα σας αγγίζοντας το εικονίδιο +";
+"AddAuthorsPlaceholder" = "Προσθέστε Συγγραφείς στη Λίστα σας αγγίζοντας το εικονίδιο +";
 "Last10Days" = "Τελευταίες 10 Ημέρες";
 "NoProgressData" = "Χωρίς Πρόοδο Ανάγνωσης";
 "ReadingProgressWidgetDescription" = "Στατιστικά Ανάγνωσης";
 
-"ThisMonth" = "Τρέχοντας Μήνας";
+"ThisMonth" = "Τρέχων Μήνας";
 "PurchasedBooks" = "Αγορές";
 "PurchaseDate" = "Ημερομηνία Αγοράς";
 "PurchaseDatePlaceholder" = "Εισάγετε Ημερομηνία Αγοράς...";
@@ -320,73 +320,73 @@
 
 "FromToPages" = "Από Σελίδα %@ έως Σελίδα %@";
 "FromToPercentage" = "Από %@ έως %@";
-"InsertProgress" = "Εισάγετε πρόοδο";
-"ProgressOverMaxPages" = "You have exceeded the number of pages in the book";
-"AddProgressPlaceholder" = "Add reading progress by tapping the + icon";
-"LeaveAReview" = "Leave a review";
+"InsertProgress" = "Εισάγετε Πρόοδο";
+"ProgressOverMaxPages" = "Έχετε υπερβεί τον αριθμό Σελίδων του Βιβλίου.";
+"AddProgressPlaceholder" = "Προσθέστε Πρόοδο Ανάγνωσης αγγίζοντας το εικονίδιο +";
+"LeaveAReview" = "Γράψτε Αξιολόγηση";
 
-"BookCoverNotFoundError" = "Cover not found online";
-"HideWishlistFromReadList" = "Hide Wishlist from read lists";
-"AuthorListNameSurname" = "Authors (name)";
-"AuthorListSurnameName" = "Authors (surname)";
-"SortByAuthorNameSurname" = "By author (name)";
-"SortByAuthorSurnameName" = "By author (surname)";
-"PHYSICALBOOK" = "Paper book";
-"EBOOK" = "Digital book";
-"AUDIOBOOK" = "Audiobook";
-"BookType" = "Book type";
+"BookCoverNotFoundError" = "Δεν βρέθηκε Εξώφυλλο στο Διαδίκτυο";
+"HideWishlistFromReadList" = "Απόκρυψη Λίστας Επιθυμιών από τις Λίστες Ανάγνωσης";
+"AuthorListNameSurname" = "Συγγραφέας (Όνομα)";
+"AuthorListSurnameName" = "Συγγραφέας (Επώνυμο)";
+"SortByAuthorNameSurname" = "Ανά Συγγραφέα (Όνομα)";
+"SortByAuthorSurnameName" = "Ανά Συγγραφέα (Επίθετο)";
+"PHYSICALBOOK" = "Φυσικό Βιβλίο";
+"EBOOK" = "Ψηφιακό Βιβλίο";
+"AUDIOBOOK" = "Ηχοβιβλίο";
+"BookType" = "Είδος Βιβλίου";
 
-"SelectLocation" = "Select location...";
-"SelectBookcase" = "Select bookcase...";
-"SelectShelf" = "Select shelf...";
-"SelectBookcaseShelfError" = "You have to select a bookcase and a shelf before to continue.";
-"SelectShelfError" = "You have to select a shelf before to continue.";
-"OneTime" = "one-time";
-"Default" = "Default";
+"SelectLocation" = "Επιλογή Τοποθεσίας...";
+"SelectBookcase" = "Επιλογή Βιβλιοθήκης...";
+"SelectShelf" = "Επιλογή Ραφιού...";
+"SelectBookcaseShelfError" = "Πρέπει να επιλέξετε μια Βιβλιοθήκη ή ένα Ράφι για να συνεχίσετε.";
+"SelectShelfError" = "Πρέπει να επιλέξετε ένα Ράφι για να συνεχίσετε.";
+"OneTime" = "Μία Φορά";
+"Default" = "Προεπιλογή";
 
-"Done" = "Done";
-"Options" = "Options";
-"You have read %lld pages today" = "You have read %lld pages today";
+"Done" = "Ολοκλήρωση";
+"Options" = "Επιλογές";
+"You have read %lld pages today" = "Διαβάσατε %lld Σελίδες σήμερα";
 
-"Author" = "Author";
-"Book" = "Book";
-"Books" = "Books";
-"Name" = "Name";
-"Surname" = "Surname";
-"Category" = "Category";
-"Cover" = "Cover";
-"BookState" = "State";
-"Tag" = "Tag";
+"Author" = "Συγγραφέας";
+"Book" = "Βιβλίο";
+"Books" = "Βιβλία";
+"Name" = "Όνομα";
+"Surname" = "Επώνυμο";
+"Category" = "Κατηγορία";
+"Cover" = "Εξώφυλλο";
+"BookState" = "Κατάσταση";
+"Tag" = "Ετικέτα";
 "GoogleBooksUrl" = "Google Books URL";
 "GoodreadsUrl" = "Goodreads URL";
-"RemoteImageUrl" = "Remote image URL";
-"ThumbnailRemoteImageUrl" = "Thumbnail remote image URL";
-"AddBookDescription" = "Add a new Book to your library or wishlist";
-"BookAdded" = "The book was inserted correctly.";
-"AuthorAdded" = "The author was inserted correctly.";
-"CategoryAdded" = "The category was inserted correctly.";
-"SeriesAdded" = "The series was inserted correctly.";
-"TagAdded" = "The tag was inserted correctly.";
-"TitleQuestion" = "What's the title?";
-"GoogleIdQuestion" = "What's the Google Books ID?";
-"GoogleBooksUrlQuestion" = "What's the Google Books URL?";
-"GoodreadQuestion" = "What's the Goodreads ID?";
-"GoodreadsUrlQuestion" = "What's the Goodreads URL?";
-"DescriptionQuestion" = "What's the Description?";
-"Isbn10Question" = "What's the ISBN 10?";
-"Isbn13Question" = "What's the ISBN 13?";
-"AuthorsQuestion" = "What are the authors?";
-"CategoriesQuestion" = "What are the categories?";
-"LanguageQuestion" = "What's the language?";
-"PublisherQuestion" = "What's the publisher?";
-"ReleaseDateQuestion" = "What's the release date?";
-"PurchaseDateQuestion" = "What's the purchase date?";
-"ImageQuestion" = "What's the cover?";
-"RemoteImageUrlQuestion" = "What's the remote cover URL?";
-"ThumbnailRemoteImageUrlQuestion" = "What's the remote thumbnail cover URL?";
-"RatingQuestion" = "What's the rating?";
-"PagesQuestion" = "What's the page number?";
-"BookStateQuestion" = "Do you want to add the book to your Library or Wishlist?";
+"RemoteImageUrl" = "URL Εικόνας";
+"ThumbnailRemoteImageUrl" = "URL Μικρογραφίας";
+"AddBookDescription" = "Προσθήκη νέου Βιβλίου στη Βιβλιοθήκη ή στη Λίστα Επιθυμιών σας";
+"BookAdded" = "Επιτυχής εισαγωγή Βιβλίου.";
+"AuthorAdded" = "Επιτυχής εισαγωγή Συγγραφέα.";
+"CategoryAdded" = "Επιτυχής εισαγωγή Κατηγορίας.";
+"SeriesAdded" = "Επιτυχής εισαγωγή Σειράς.";
+"TagAdded" = "Επιτυχής εισαγωγή Ετικέτας.";
+"TitleQuestion" = "Ποιος είναι ο Τίτλος;";
+"GoogleIdQuestion" = "Ποιο είναι το Google Books ID?";
+"GoogleBooksUrlQuestion" = "Ποιο είναι το Google Books URL?";
+"GoodreadQuestion" = "Ποιο είναι το Goodreads ID?";
+"GoodreadsUrlQuestion" = "Ποιο είναι το Goodreads URL?";
+"DescriptionQuestion" = "Ποια είναι η Σύνοψη;";
+"Isbn10Question" = "Ποιο είναι το ISBN 10?";
+"Isbn13Question" = "Ποιο είναι το ISBN 13?";
+"AuthorsQuestion" = "Ποιοι είναι οι Συγγραφείς;";
+"CategoriesQuestion" = "Ποιες είναι οι Κατηγορίες;";
+"LanguageQuestion" = "Ποια είναι η Γλώσσα;";
+"PublisherQuestion" = "Ποιος είναι ο Εκδότης;";
+"ReleaseDateQuestion" = "Ποια είναι η Ημερομηνία Κυκλοφορίας;";
+"PurchaseDateQuestion" = "Ποια είναι η Ημερομηνία Αγοράς;";
+"ImageQuestion" = "Ποιο είναι το εξώφυλλο;";
+"RemoteImageUrlQuestion" = "Ποιο είναι το URL της Εικόνας;";
+"ThumbnailRemoteImageUrlQuestion" = "Ποιο είναι το URL της Μικρογραφίας;";
+"RatingQuestion" = "Ποια είναι η Βαθμολογία;";
+"PagesQuestion" = "Ποιος είναι ο αριθμός Σελίδων;";
+"BookStateQuestion" = "Θέλετε να προσθέσετε το Βιβλίο στη Βιβλιοθήκη σας ή στη Λίστα Επιθυμιών σας;";
 "ReadingStatusQuestion" = "What is the reading status?";
 "BookTypeQuestion" = "What's the book type?";
 "PersonalCommentQuestion" = "What's the personal comment?";
