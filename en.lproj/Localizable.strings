@@ -106,13 +106,13 @@
 "Onboarding3Title" = "Add new books";
 "Onboarding3Message" = "Add new books searching online, scanning the bar code or manually inserting it";
 "Onboarding4Title" = "Library saved in the cloud";
-"Onboarding4Message" = "Your library and wish list is automatically saved on your iCloud account if both iCloud and iCloud Drive are enabled";
+"Onboarding4Message" = "Your library is automatically saved on your iCloud account if both iCloud and iCloud Drive are enabled";
 "Onboarding5Title" = "Import the library";
-"Onboarding5Message" = "Import your books from other apps and services so you don't have to start building your library all over again";
+"Onboarding5Message" = "Import your books from other apps so you don't have to start building your library all over again";
 "Onboarding6Title" = "Quote saving";
 "Onboarding6Message" = "Save your favorite quotes in one place so you can read them again later";
-"Onboarding7Title" = "Reading challenges";
-"Onboarding7Message" = "See library and reading statistics and put them right on your Home screen with gorgeous widgets";
+"Onboarding7Title" = "Widgets";
+"Onboarding7Message" = "Your library and reading statistics right on your Home screen with gorgeous widgets";
 "Continue" = "Continue";
 "TryForFree" = "Try for free";
 
@@ -135,7 +135,10 @@
 "ImportErrorMessage" = "It is not possible to import your books. You have to select a csv file. If you are not sure of the format of the file, try to export a csv file from Book Tracker and check the columns name.";
 
 "ImportSuccessTitle" = "Congratulations";
-"ImportSuccessMessage" = "You have successfully imported your books in Book Track.\n\nTotal: %@\nSuccesses: %@\nErrors: %@";
+"ImportSuccessMessage" = "You have successfully imported your books in Book Tracker.\n\nTotal: %@\nSuccesses: %@\nErrors: %@";
+"ImportPreviewSuccessMessage" = "The import preview is ready.\n\nTotal: %@\nSuccesses: %@\nErrors: %@";
+"ShowBooks" = "Show books";
+"Preview" = "Preview";
 
 "WaitLoading" = "Please wait...";
 
@@ -178,7 +181,7 @@
 "SelectFile" = "Select file";
 "File" = "File";
 "LeaveATip" = "Leave a tip";
-"LeaveATipDescription" = "Hi, I'm Simone, the developer of Book Track. I hope you like the app and that it is helping you keep your library organized.\n\nIf you want to further support my work and help me manage the running costs, you can do it with a donation. Thanks a lot ❤️";
+"LeaveATipDescription" = "Hi, I'm Simone, the developer of Book Tracker. I hope you like the app and that it is helping you keep your library organized.\n\nIf you want to further support my work and help me manage the running costs, you can do it with a donation. Thanks a lot ❤️";
 "ThanksgivingTitle" = "Purchase completed";
 "ThanksgivingMessage" = "Thanks for your support ❤️";
 "ErrorOccurred" = "A problem has occurred. Try later";
@@ -288,7 +291,7 @@
 "PremiumSubtitle" = "Unlock all features";
 "Duplicate" = "Duplicate";
 
-"ImportSelectFileTitle" = "Book Tracker supports the import of libraries in CSV format. Select a CSV file to import your library from another app or service into Book Track. If you want to import the library from Goodreads, you can export the CSV file from the Goodreads website.";
+"ImportSelectFileTitle" = "Book Tracker supports the import of libraries in CSV format. Select a CSV file to import your library from another app or service into Book Tracker. If you want to import the library from Goodreads, you can export the CSV file from the Goodreads website.";
 "ImportAssociateFieldsTitle" = "Book Tracker automatically tries to associate the column names of the CSV file with the fields in the app. Should any field remain empty, select it to be able to associate it manually. If some fields are not available in the CSV file they can remain empty. In order to proceed with the import, at least the title field must be selected.";
 
 "Location" = "Location";
@@ -631,10 +634,10 @@
 "AddReadingStatus" = "Add reading status";
 "ReadingStates" = "Reading states";
 "ReadingStatusPagesCompletion" = "%d of %d pages";
-"ReadingStatusTimeCompletion" = "%d of %d minutes";
+"ReadingStatusTimeCompletion" = "%@ of %@";
 "ReadingStatusPagesToCompletion" = "%d pages left";
 "ReadingStatusPercentageToCompletion" = "%@ left";
-"ReadingStatusTimeToCompletion" = "%d minutes left";
+"ReadingStatusTimeToCompletion" = "%@ left";
 "ReadingStatusType" = "Type";
 "ReadingStatus" = "Reading status";
 "StartReadingDate" = "Start reading date";
@@ -647,12 +650,12 @@
 "ReadingTypePercentage" = "Percentage";
 "ReadingTypeTime" = "Time";
 "ReadingProgress" = "Reading progress";
-"OfNMinutes" = "of %lld minutes";
+"OfNMinutes" = "of %@";
 "OfPercentage" = "of 100%";
 "ReadingProgressExceedError" = "The value entered exceeds the maximum value";
 "ReadingProgressLowerError" = "The value entered is less than the previous value";
 "Completed" = "Completed";
-"FromToMinute" = "From minute %@ to minute %@";
+"FromToMinute" = "From %@ to %@";
 "Progress" = "Progress";
 "ProgressList" = "Progress list";
 "AddDate" = "Add date";
@@ -736,7 +739,7 @@
 "AddRating" = "Add Rating";
 "EditRating" = "Edit Rating";
 "RandomQuote" = "Random quote";
-"CurrentReading" = "Current reading";
+"CurrentReading" = "Currently reading";
 
 "You have listened %lld minutes today" = "You have listened %lld minutes today";
 "%lld of %lld pages" = "%lld of %lld pages";
@@ -765,3 +768,81 @@
 "GetBookNotes" = "Get Book Notes";
 "GetBookNotesDescription" = "Get notes from a specific book";
 "Get notes for ${book}" = "Get notes for ${book}";
+
+"ExportQuotes" = "Export quotes";
+
+"SortByPages" = "By page count";
+"SelectUserRating" = "Select user rating";
+"SelectPageCount" = "Select pages";
+"Red" = "Red";
+"Pink" = "Pink";
+"Orange" = "Orange";
+"Green" = "Green";
+"Mint" = "Mint";
+"Teal" = "Teal";
+"Blue" = "Blue";
+"Purple" = "Purple";
+"Indigo" = "Indigo";
+"Gray" = "Gray";
+"ColorQuestion" = "What's the color?";
+"DefaultBookType" = "Default book type";
+"InsertRemoteBookCategories" = "Insert categories from online search";
+"InsertRemoteBookPublishers" = "Insert publishers from online search";
+"InsertRemoteBookRatings" = "Insert ratings from online search";
+
+"OrderSeries" = "Order series";
+
+"LongestReadBook" = "Longest Read Book";
+"LongestListenedBook" = "Longest Listened Book";
+"TopReadAuthor" = "Most Read Author";
+"TopListenedAuthor" = "Most Listened Author";
+"TopReadCategory" = "Most Read Category";
+"TopListenedCategory" = "Most Listened Category";
+"TopRatedBook" = "Top Rated Book";
+
+"NameSurname" = "Name surname";
+"SurnameName" = "Surname name";
+"MergeItem" = "Merge";
+"MergeItemsInfoMessage" = "Are you sure to merge \n\n%@\n\n into \n\n%@? \n\nThe action is not reversible.";
+
+"Backup&Restore" = "Backup & restore";
+"Backup" = "Backup";
+"Restore" = "Restore";
+"RestoreBackupTitle" = "Restore from backup?";
+"RestoreBackupMessage" = "Restoring from a backup will replace all current data with the data from the backup Are you sure you wish to continue?";
+"RestoreBackupInfoMessage" = "Select a specific backup to overwrite the data on this device with the data from a backup. Note that it can take some time for backups to sync with iCloud.";
+"BackupFrequencyInfoMessage" = "Select the frequency that the app automatically backs up your data. Backups will made in the background.";
+"Daily" = "Daily";
+"Weekly" = "Weekly";
+"Monthly" = "Monthly";
+"Never" = "Never";
+"BackupFrequency" = "Backup frequency";
+"BackupLimitInfoMessage" = "Select the maximum number of backups to be stored locally on your device.";
+"BackupLimit" = "Backup limit";
+
+"Privacy" = "Privacy";
+"PaywallTitle3" = "Privacy first";
+"PaywallDescription3" = "We like to keep things simple:\n\nWe intentionally do not use third-party analytics or ads in Book Tracker, and collect no user data of any sort. We are committed to making sure that this remains the case.\n\nYour settings & data are stored securely on your own devices, and, where appropriate, you may choose to back-up or sync through iCloud.";
+
+"AddReadingStatusError1" = "To save, you need to enter the book length and the end reading date. If you don't want to enter when you read the book, delete the start reading date.";
+"AddReadingStatusError2" = "To save, you need to enter the book length, and the start reading date must be earlier than the end reading date. If you don't want to enter when you read the book, delete the start reading date.";
+"AddReadingStatusError3" = "To save, the start reading date must be earlier than the end reading date. If you don't want to enter when you read the book, delete the start reading date.";
+"AddReadingStatusError4" = "To save, you need to enter the book length.";
+"AddReadingStatusError5" = "To save, you need to enter the end reading date. If you don't want to enter when you read the book, delete the start reading date.";
+
+"ReadingStatusTypeDescription" = "Select how you want to track the book's progress. 'Pages' allows you to update progress by entering the number of pages read, 'Percentage' allows you to enter progress as a percentage (useful for eBooks), and 'Time' gives you the ability to track audiobook progress.";
+"InsertTotalPagesFootnote" = "Enter the total number of pages in the book.";
+"InsertTotalLengthMinutesFootnote" = "Enter the total number of minutes of the audiobook.";
+
+"Pause" = "Pause";
+"End" = "End";
+"Resume" = "Resume";
+"ReadingTimer" = "Reading Timer";
+"StartReadingTimer" = "Start reading timer";
+"DismissReadingSessionMessage" = "Do you want to dismiss your reading session without saving?";
+"BookReadingRateInfo" = "As you continue reading at this pace, the time it takes you to finish the book is %@.";
+"YouAreNotReadingTheBookError" = "In order to start your reading session, you must first create a reading status for the selected book.";
+"StartReadingSession" = "Start Book Reading Session";
+"StartReadingSessionDescription" = "Start the reading session of the selected book";
+"Start reading session of ${book}" = "Start reading session of ${book}";
+"ReadingSessionCreated" = "Reading session created";

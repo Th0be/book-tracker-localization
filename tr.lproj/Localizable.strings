@@ -111,7 +111,7 @@
 "Onboarding5Message" = "Kitaplığınızı baştan oluşturmaya başlamak zorunda kalmamak için kitaplarınızı diğer uygulamalardan ve hizmetlerden içe aktarın";
 "Onboarding6Title" = "Fiyat teklifi kaydetme";
 "Onboarding6Message" = "Daha sonra tekrar okuyabilmek için favori alıntılarınızı tek bir yere kaydedin";
-"Onboarding7Title" = "Okuma zorlukları";
+"Onboarding7Title" = "Widget'lar";
 "Onboarding7Message" = "Kitaplığı ve okuma istatistiklerini görün ve muhteşem widget'larla bunları doğrudan Ana ekranınıza yerleştirin";
 "Continue" = "Devam";
 "TryForFree" = "Ücretsiz deneyin";
@@ -136,6 +136,9 @@
 
 "ImportSuccessTitle" = "Tebrikler";
 "ImportSuccessMessage" = "Kitaplarınızı Book Track'a başarıyla eklediniz.\n\nToplam: %@\nBaşarılı: %@\nHatalar: %@";
+"ImportPreviewSuccessMessage" = "İçe Aktarma Önizlemesi hazır.\n\nToplam: %@\nBaşarılı: %@\nHatalar: %@";
+"ShowBooks" = "Kitapları Göster";
+"Preview" = "Önizleme";
 
 "WaitLoading" = "Lütfen bekleyin...";
 
@@ -631,10 +634,10 @@
 "AddReadingStatus" = "Okuma Durumu Ekle";
 "ReadingStates" = "Okuma Durumları";
 "ReadingStatusPagesCompletion" = "%d/%d sayfa tamamlandı";
-"ReadingStatusTimeCompletion" = "%d/%d dakika tamamlandı";
+"ReadingStatusTimeCompletion" = "%@/%@";
 "ReadingStatusPagesToCompletion" = "%d sayfa kaldı";
 "ReadingStatusPercentageToCompletion" = "%@ kaldı";
-"ReadingStatusTimeToCompletion" = "%d dakika kaldı";
+"ReadingStatusTimeToCompletion" = "%@ kaldı";
 "ReadingStatusType" = "Tip";
 "ReadingStatus" = "Okuma Durumu";
 "StartReadingDate" = "Okumaya Başlama Tarihi";
@@ -647,12 +650,12 @@
 "ReadingTypePercentage" = "Yüzde";
 "ReadingTypeTime" = "Zaman";
 "ReadingProgress" = "Okuma İlerlemesi";
-"OfNMinutes" = " %lld dakikadan %s";
+"OfNMinutes" = " %@";
 "OfPercentage" = "100%'den %s";
 "ReadingProgressExceedError" = "Girilen değer maksimum değeri aşıyor";
 "ReadingProgressLowerError" = "Girilen değer önceki değerden daha düşük";
 "Completed" = "Tamamlandı";
-"FromToMinute" = "%@ dakikadan %@ dakikaya kadar";
+"FromToMinute" = "%@'den %@'ye";
 "Progress" = "İlerleme";
 "ProgressList" = "İlerleme Listesi";
 "AddDate" = "Tarih Ekle";
@@ -765,3 +768,81 @@
 "GetBookNotes" = "Kitap Notlarını Al";
 "GetBookNotesDescription" = "Belirli bir kitaptan notlar al";
 "Get notes for ${book}" = "${book} için notları al";
+
+"ExportQuotes" = "Alıntılar dışa aktar";
+
+"SortByPages" = "Sayfa sayısına göre sırala";
+"SelectUserRating" = "Kullanıcı derecesi seç";
+"SelectPageCount" = "Sayfaları seç";
+"Red" = "Kırmızı";
+"Pink" = "Pembe";
+"Orange" = "Turuncu";
+"Green" = "Yeşil";
+"Mint" = "Nane";
+"Teal" = "Teal";
+"Blue" = "Mavi";
+"Purple" = "Mor";
+"Indigo" = "Çivit mavi";
+"Gray" = "Gri";
+"ColorQuestion" = "Renk nedir?";
+"DefaultBookType" = "Varsayılan kitap türü";
+"InsertRemoteBookCategories" = "Çevrimiçi aramadan kategorileri ekle";
+"InsertRemoteBookPublishers" = "Çevrimiçi aramadan yayıncıları ekle";
+"InsertRemoteBookRatings" = "Çevrimiçi aramadan derecelendirmeleri ekle";
+
+"OrderSeries" = "Serileri sırala";
+
+"LongestReadBook" = "En Uzun Okunan Kitap";
+"LongestListenedBook" = "En Uzun Dinlenen Kitap";
+"TopReadAuthor" = "En Çok Okunan Yazar";
+"TopListenedAuthor" = "En Çok Dinlenen Yazar";
+"TopReadCategory" = "En Çok Okunan Kategori";
+"TopListenedCategory" = "En Çok Dinlenen Kategori";
+"TopRatedBook" = "En İyi Dereceli Kitap";
+
+"NameSurname" = "Ad soyad";
+"SurnameName" = "Soyad ad";
+"MergeItem" = "Birleştir";
+"MergeItemsInfoMessage" = "Emin misiniz ki \n\n%@\n\n'yi \n\n%@ ile birleştirmek istiyorsunuz? \n\nBu eylem geri alınamaz.";
+
+"Backup&Restore" = "Yedekleme & Geri Yükleme";
+"Backup" = "Yedekleme";
+"Restore" = "Geri Yükleme";
+"RestoreBackupTitle" = "Yedeğinden geri yükle?";
+"RestoreBackupMessage" = "Yedeğinden geri yüklemek, tüm mevcut verileri yedeğin verileri ile değiştirecek. Devam etmek istediğinizden emin misiniz?";
+"RestoreBackupInfoMessage" = "Bu cihazdaki verileri bir yedekleme verileri ile üzerine yazmak için belirli bir yedekleme seçin. Unutmayın ki yedeklemelerin iCloud ile senkronize olması biraz zaman alabilir.";
+"BackupFrequencyInfoMessage" = "Uygulamanın verilerinizi otomatik olarak ne sıklıkta yedeklediğini seçin. Yedeklemeler arka planda yapılacaktır.";
+"Daily" = "Günlük";
+"Weekly" = "Haftalık";
+"Monthly" = "Aylık";
+"Never" = "Asla";
+"BackupFrequency" = "Yedekleme sıklığı";
+"BackupLimitInfoMessage" = "Cihazınızda yerel olarak depolanacak maksimum yedekleme sayısını seçin.";
+"BackupLimit" = "Yedekleme sınırı";
+
+"Privacy" = "Gizlilik";
+"PaywallTitle3" = "Öncelikli Gizlilik";
+"PaywallDescription3" = "Basit tutmayı severiz:\n\nBilinçli olarak Book Tracker'da üçüncü taraf analitik veya reklam kullanmıyoruz ve hiçbir türde kullanıcı verisi toplamıyoruz. Bu durumun böyle kalmasını sağlamak için kararlıyız.\n\nAyarlarınız ve verileriniz kendi cihazlarınızda güvenli bir şekilde saklanır ve uygunsa iCloud üzerinden yedek almayı veya senkronize etmeyi seçebilirsiniz.";
+
+"AddReadingStatusError1" = "Kaydetmek için kitap uzunluğunu ve bitiş okuma tarihini girmelisiniz. Kitabı ne zaman okuduğunuzu girmek istemiyorsanız, başlama okuma tarihini silin.";
+"AddReadingStatusError2" = "Kaydetmek için kitap uzunluğunu girmeniz gerekiyor ve başlama okuma tarihi, bitiş okuma tarihinden önce olmalıdır. Kitabı ne zaman okuduğunuzu girmek istemiyorsanız, başlama okuma tarihini silin.";
+"AddReadingStatusError3" = "Kaydetmek için başlama okuma tarihi, bitiş okuma tarihinden önce olmalıdır. Kitabı ne zaman okuduğunuzu girmek istemiyorsanız, başlama okuma tarihini silin.";
+"AddReadingStatusError4" = "Kaydetmek için kitap uzunluğunu girmelisiniz.";
+"AddReadingStatusError5" = "Kaydetmek için bitiş okuma tarihini girmelisiniz. Kitabı ne zaman okuduğunuzu girmek istemiyorsanız, başlama okuma tarihini silin.";
+
+"ReadingStatusTypeDescription" = "Kitabın ilerlemesini nasıl izlemek istediğinizi seçin. 'Sayfalar' okunan sayfa sayısını girerek ilerlemeyi güncellemenizi sağlar, 'Yüzde' ilerlemeyi yüzde olarak girmenize izin verir (e-kitaplar için yararlıdır) ve 'Zaman' sesli kitap ilerlemesini takip etmenizi sağlar.";
+"InsertTotalPagesFootnote" = "Kitaptaki toplam sayfa sayısını girin.";
+"InsertTotalLengthMinutesFootnote" = "Sesli kitabın toplam dakika sayısını girin.";
+
+"Pause" = "Duraklat";
+"End" = "Son";
+"Resume" = "Devam et";
+"ReadingTimer" = "Okuma Zamanlayıcı";
+"StartReadingTimer" = "Okuma zamanlayıcısını başlat";
+"DismissReadingSessionMessage" = "Okuma oturumunuzu kaydetmeden kapatmak istiyor musunuz?";
+"BookReadingRateInfo" = "Bu tempoda devam ederseniz, kitabı bitirmeniz %@ sürer.";
+"YouAreNotReadingTheBookError" = "Okuma oturumunuza başlamak için önce seçilen kitap için bir okuma durumu oluşturmanız gerekir.";
+"StartReadingSession" = "Kitap Okuma Oturumu Başlat";
+"StartReadingSessionDescription" = "Seçilen kitabın okuma oturumunu başlatın";
+"Start reading session of ${book}" = "${book} okuma oturumunu başlat";
+"ReadingSessionCreated" = "Okuma oturumu oluşturuldu";
